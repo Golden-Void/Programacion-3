@@ -1,0 +1,1411 @@
+﻿Log file open, 07/09/20 16:48:17
+LogInit: Display: Running engine for game: Trabajo1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.136546
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=G0LD_V01D -epicuserid=af1ac89e568043b1a7425cf0784c520b -epiclocale=es
+LogInit: Base Directory: D:/VOID2/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Engine.ini]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Engine.ini]
+[2020.07.09-20.48.17:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Engine.ini]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.09-20.48.17:448][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Engine.ini]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.09-20.48.17:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Engine.ini]
+[2020.07.09-20.48.17:449][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Engine.ini]
+[2020.07.09-20.48.17:452][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.09-20.48.17:452][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.09-20.48.17:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.09-20.48.17:454][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.09-20.48.17:454][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.09-20.48.17:454][  0]LogHAL: Display: Platform has ~ 8 GB [8464355328 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.09-20.48.17:454][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.09-20.48.17:454][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.09-20.48.17:454][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.09-20.48.17:455][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.09-20.48.17:456][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.09-20.48.17:456][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.09-20.48.17:456][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.09-20.48.17:456][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.09-20.48.17:456][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.09-20.48.17:456][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.09-20.48.17:456][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.09-20.48.17:456][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.09-20.48.17:456][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.07.09-20.48.17:456][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Config/Windows/Engine.ini]
+[2020.07.09-20.48.17:456][  0]LogInit: Computer: LAPTOP-7A65BODB
+[2020.07.09-20.48.17:456][  0]LogInit: User: claud
+[2020.07.09-20.48.17:456][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.09-20.48.17:456][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.09-20.48.17:456][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.07.09-20.48.17:456][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.09-20.48.17:456][  0]LogMemory: Process Physical Memory: 114.38 MB used, 114.38 MB peak
+[2020.07.09-20.48.17:456][  0]LogMemory: Process Virtual Memory: 96.27 MB used, 96.27 MB peak
+[2020.07.09-20.48.17:456][  0]LogMemory: Physical Memory: 6691.32 MB used,  1380.92 MB free, 8072.24 MB total
+[2020.07.09-20.48.17:456][  0]LogMemory: Virtual Memory: 5144.16 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.07.09-20.48.17:463][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.09-20.48.17:495][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.07.09-20.48.17:496][  0]LogInit: Using OS detected language (es-ES).
+[2020.07.09-20.48.17:496][  0]LogInit: Using OS detected locale (es-CL).
+[2020.07.09-20.48.17:498][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2020.07.09-20.48.17:531][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.09-20.48.17:569][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.09-20.48.17:569][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.09-20.48.17:784][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.09-20.48.17:784][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.09-20.48.17:784][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.09-20.48.17:784][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.09-20.48.17:882][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.07.09-20.48.17:882][  0]LogD3D11RHI:       3962/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.09-20.48.18:583][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.07.09-20.48.18:583][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.07.09-20.48.18:587][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.09-20.48.18:587][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.09-20.48.18:587][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.09-20.48.18:641][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.09-20.48.18:641][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.09-20.48.18:641][  0]LogWindows: EnumDisplayDevices:
+[2020.07.09-20.48.18:642][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.07.09-20.48.18:642][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.07.09-20.48.18:642][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.07.09-20.48.18:642][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.07.09-20.48.18:643][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.07.09-20.48.18:643][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.07.09-20.48.18:643][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.07.09-20.48.18:643][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.07.09-20.48.18:643][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.07.09-20.48.18:643][  0]LogD3D11RHI:   Driver Version: 442.23 (internal:26.21.14.4223, unified:442.23)
+[2020.07.09-20.48.18:643][  0]LogD3D11RHI:      Driver Date: 1-31-2020
+[2020.07.09-20.48.18:643][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2020.07.09-20.48.18:701][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.09-20.48.18:703][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.07.09-20.48.18:704][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.09-20.48.18:704][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.07.09-20.48.18:724][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.09-20.48.19:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.09-20.48.19:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.09-20.48.19:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.09-20.48.19:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.09-20.48.19:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.09-20.48.19:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.09-20.48.19:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.09-20.48.19:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.09-20.48.19:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.09-20.48.19:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.09-20.48.19:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.09-20.48.19:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.09-20.48.19:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.09-20.48.19:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.07.09-20.48.19:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.09-20.48.19:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.09-20.48.19:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.09-20.48.19:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.09-20.48.19:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.09-20.48.19:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.09-20.48.19:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.09-20.48.19:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.09-20.48.19:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.09-20.48.19:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.09-20.48.19:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.09-20.48.19:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.09-20.48.19:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.09-20.48.19:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.09-20.48.19:681][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.09-20.48.19:688][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.09-20.48.19:744][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Intermediate/Shaders/WorkingDirectory/7712/).
+[2020.07.09-20.48.19:744][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/claud/AppData/Local/Temp/UnrealShaderWorkingDir/D1F78E0F4A45FFE352B4E8A73E178576/'.
+[2020.07.09-20.48.19:745][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.09-20.48.19:745][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.09-20.48.19:745][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.09-20.48.20:522][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.09-20.48.20:619][  0]LogDerivedDataCache: Loaded boot cache 0.10s 76MB C:/Users/claud/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.09-20.48.20:619][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/claud/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.07.09-20.48.20:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.09-20.48.20:620][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.09-20.48.20:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.09-20.48.20:620][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.09-20.48.20:636][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.09-20.48.20:636][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.09-20.48.20:636][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.09-20.48.20:637][  0]LogDerivedDataCache: Using Local data cache path C:/Users/claud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.09-20.48.20:637][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.09-20.48.20:637][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.09-20.48.20:692][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.09-20.48.20:692][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.09-20.48.20:721][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2020.07.09-20.48.21:028][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.09-20.48.21:166][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.09-20.48.21:166][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.09-20.48.21:166][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.09-20.48.21:166][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.09-20.48.21:166][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.09-20.48.21:187][  0]LogNetVersion: Trabajo1 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1309871337)
+[2020.07.09-20.48.21:659][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000022E5168DE40), frame # 0
+[2020.07.09-20.48.21:659][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E51628400), frame # 0
+[2020.07.09-20.48.21:661][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E5165CA00), frame # 0
+[2020.07.09-20.48.22:014][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.342211 seconds
+[2020.07.09-20.48.22:021][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.07.09-20.48.22:021][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.07.09-20.48.22:021][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.09-20.48.22:462][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.09-20.48.22:468][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.09-20.48.22:557][  0]SourceControl: El control de código fuente está desactivado
+[2020.07.09-20.48.22:557][  0]SourceControl: El control de código fuente está desactivado
+[2020.07.09-20.48.22:561][  0]SourceControl: El control de código fuente está desactivado
+[2020.07.09-20.48.22:564][  0]SourceControl: El control de código fuente está desactivado
+[2020.07.09-20.48.22:571][  0]SourceControl: El control de código fuente está desactivado
+[2020.07.09-20.48.22:858][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.09-20.48.22:882][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.09-20.48.22:882][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.09-20.48.22:935][  0]LogOcInput: OculusInput pre-init called
+[2020.07.09-20.48.22:944][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.09-20.48.22:944][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.09-20.48.23:001][  0]LogEngine: Initializing Engine...
+[2020.07.09-20.48.23:122][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.09-20.48.23:122][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.07.09-20.48.23:124][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.09-20.48.23:329][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.09-20.48.23:346][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.09-20.48.23:347][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E540B5A00), frame # 0
+[2020.07.09-20.48.23:347][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E540CE480), frame # 0
+[2020.07.09-20.48.23:385][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-20.48.23:385][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-20.48.23:385][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-20.48.23:386][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-20.48.23:386][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-20.48.23:386][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-20.48.23:386][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-20.48.23:386][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-20.48.23:386][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-20.48.23:386][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-20.48.23:420][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-20.48.23:420][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-20.48.23:468][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-20.48.23:472][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-20.48.23:474][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-20.48.23:474][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-20.48.23:475][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-20.48.23:476][  0]LogInit: FAudioDevice initialized.
+[2020.07.09-20.48.23:477][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.09-20.48.23:582][  0]LogDerivedDataCache: Saved boot cache 0.11s 76MB C:/Users/claud/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.09-20.48.23:583][  0]LogInit: Texture streaming: Enabled
+[2020.07.09-20.48.23:607][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.09-20.48.23:607][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.09-20.48.23:611][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.09-20.48.23:951][  0]LogInit: Transaction tracking system initialized
+[2020.07.09-20.48.23:976][  0]BlueprintLog: New page: Cargar el editor
+[2020.07.09-20.48.24:084][  0]LocalizationService: Localization service is disabled
+[2020.07.09-20.48.24:961][  0]LogFileCache: Scanning file cache for directory 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/' took 0.08s
+[2020.07.09-20.48.24:961][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.09-20.48.24:961][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.09-20.48.25:632][  0]SourceControl: El control de código fuente está desactivado
+[2020.07.09-20.48.25:633][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.991
+[2020.07.09-20.48.25:633][  0]Cmd: MAP LOAD FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.09-20.48.25:633][  0]LightingResults: New page: Diseñar la iluminación
+[2020.07.09-20.48.25:634][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-20.48.25:634][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.48.25:634][  0]MapCheck: New page: Revisión del mapa
+[2020.07.09-20.48.25:634][  0]LightingResults: New page: Diseñar la iluminación
+[2020.07.09-20.48.25:646][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E540B5A00), frame # 0
+[2020.07.09-20.48.25:646][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E540CE480), frame # 0
+[2020.07.09-20.48.25:647][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.07.09-20.48.29:810][  0]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-20.48.29:810][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E43AEE000), frame # 0
+[2020.07.09-20.48.29:810][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E43B01800), frame # 0
+[2020.07.09-20.48.30:959][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.09-20.48.30:976][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.07.09-20.48.30:977][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.09-20.48.30:977][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,371ms to complete.
+[2020.07.09-20.48.30:978][  0]LogFileHelpers: Loading map 'RollingBPExampleMap' took 5.346
+[2020.07.09-20.48.30:982][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.341
+[2020.07.09-20.48.34:334][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-20.48.34:343][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-20.48.34:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-20.48.34:356][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-20.48.34:467][  0]LogCollectionManager: Loaded 0 collections in 0.001608 seconds
+[2020.07.09-20.48.34:645][  0]LogFileCache: Scanning file cache for directory 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Collections/' took 0.00s
+[2020.07.09-20.48.34:645][  0]LogFileCache: Scanning file cache for directory 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/Developers/claud/Collections/' took 0.00s
+[2020.07.09-20.48.34:645][  0]LogFileCache: Scanning file cache for directory 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/Collections/' took 0.00s
+[2020.07.09-20.48.34:646][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3427 classes and 821 folders.
+[2020.07.09-20.48.34:730][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.09-20.48.39:509][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.09-20.48.39:557][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.07.09-20.48.40:110][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.09-20.48.40:208][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.09-20.48.40:296][  0]LogSlate: Took 0.018190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.09-20.48.41:019][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2020.07.09-20.48.41:770][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.09-20.48.41:770][  0]LogLoad: (Engine Initialization) Total time: 28.13 seconds
+[2020.07.09-20.48.41:770][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.09-20.48.42:045][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.09-20.48.42:144][  0]LogSlate: Took 0.018861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.09-20.48.42:375][  1]LogAssetRegistry: Asset discovery search completed in 21.6555 seconds
+[2020.07.09-20.48.42:386][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.07.09-20.48.42:925][  6]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.09-20.48.45:352][113]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-20.48.46:808][113]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2020.07.09-20.48.48:944][113]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollingBP/TriggerObject.TriggerObject
+[2020.07.09-20.48.49:384][113]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollingBP/TriggerObject1.TriggerObject1
+[2020.07.09-20.48.49:749][113]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.09-20.48.50:445][114]LogSlate: Took 0.024608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.09-20.50.14:324][577]LogSlate: Window 'TriggerObject1' being destroyed
+[2020.07.09-20.51.00:403][269]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-20.51.00:590][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-20.51.00:707][269]PIE: New page: Sesión PIE (reproducción en el editor): RollingBPExampleMap (09-07-2020 12:51:00)
+[2020.07.09-20.51.00:730][269]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.09-20.51.00:747][269]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.07.09-20.51.00:762][269]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-20.51.00:888][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126596s)
+[2020.07.09-20.51.00:902][269]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-20.51.00:903][269]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E98852000), frame # 2269
+[2020.07.09-20.51.00:903][269]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E98862AC0), frame # 2269
+[2020.07.09-20.51.00:903][269]LogPlayLevel: PIE: World Init took: (0.014651s)
+[2020.07.09-20.51.00:903][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.141921s)
+[2020.07.09-20.51.00:960][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.07.09-20.51.00:973][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-20.51.00:973][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-20.51.00:973][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-20.51.00:973][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-20.51.00:973][269]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-20.51.00:973][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-20.51.00:973][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-20.51.00:973][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-20.51.00:973][269]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-20.51.00:973][269]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-20.51.00:980][269]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-20.51.00:981][269]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-20.51.01:013][269]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-20.51.01:013][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-20.51.01:013][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-20.51.01:013][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-20.51.01:014][269]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-20.51.01:033][269]LogInit: FAudioDevice initialized.
+[2020.07.09-20.51.01:111][269]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.09-20.51.01:224][269]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.09-16.51.01
+[2020.07.09-20.51.01:245][269]LogWorld: Bringing up level for play took: 0.025903
+[2020.07.09-20.51.01:253][269]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.07.09-20.51.01:371][269]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.07.09-20.51.01:497][269]PIE: El servidor ha iniciado la sesión
+[2020.07.09-20.51.01:499][269]PIE: Play in editor total start time 1,008 seconds.
+[2020.07.09-20.51.51:373][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-20.51.51:373][511]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-20.51.51:392][511]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-20.51.51:393][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.51.51:493][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-20.51.51:516][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.51.51:623][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-20.51.51:656][511]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E98852000), frame # 4511
+[2020.07.09-20.51.51:656][511]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E98862AC0), frame # 4511
+[2020.07.09-20.51.51:680][511]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.07.09-20.51.51:738][512]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.07.09-20.52.01:057][868]LogRenderer: Reallocating scene render targets to support 964x536 Format 10 NumSamples 1 (Frame:1).
+[2020.07.09-20.53.00:546][984]LogSlate: Took 0.083766 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.07.09-20.53.02:936][ 56]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.206530 seconds
+[2020.07.09-20.53.02:936][ 56]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.07.09-20.53.02:936][ 56]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.07.09-20.53.03:998][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.53.04:011][ 57]LogSlate: Took 0.001450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.09-20.53.04:058][ 57]LogSlate: Took 0.023582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.09-20.53.04:069][ 57]LogSlate: Took 0.010531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.09-20.53.09:424][241]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.07.09-20.53.09:437][241]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.07.09-20.53.14:488][447]LogSlate: Took 0.000523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.09-20.54.32:512][940]LogSlate: Took 0.000488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.09-20.54.35:040][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-20.54.35:066][ 42]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.09-20.54.35:212][ 42]LogPlayLevel: [PlayLevel] Compiling NewBall before play...
+[2020.07.09-20.54.35:539][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2020.07.09-20.54.35:559][ 42]LogPlayLevel: PlayLevel: Blueprint regeneration took 493 ms (1 blueprints)
+[2020.07.09-20.54.35:559][ 42]PIE: New page: PIE session: RollingBPExampleMap (09-07-2020 12:54:35)
+[2020.07.09-20.54.35:589][ 42]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-20.54.35:607][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017926s)
+[2020.07.09-20.54.35:609][ 42]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-20.54.35:609][ 42]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E354D4800), frame # 11042
+[2020.07.09-20.54.35:609][ 42]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E43E9FB00), frame # 11042
+[2020.07.09-20.54.35:609][ 42]LogPlayLevel: PIE: World Init took: (0.001846s)
+[2020.07.09-20.54.35:609][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.019983s)
+[2020.07.09-20.54.35:643][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.07.09-20.54.35:644][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-20.54.35:644][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-20.54.35:644][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-20.54.35:644][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-20.54.35:644][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-20.54.35:644][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-20.54.35:644][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-20.54.35:644][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-20.54.35:644][ 42]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-20.54.35:644][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-20.54.35:653][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-20.54.35:653][ 42]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-20.54.35:701][ 42]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-20.54.35:701][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-20.54.35:701][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-20.54.35:701][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-20.54.35:702][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-20.54.35:723][ 42]LogInit: FAudioDevice initialized.
+[2020.07.09-20.54.35:732][ 42]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.09-20.54.35:735][ 42]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.09-16.54.35
+[2020.07.09-20.54.35:736][ 42]LogWorld: Bringing up level for play took: 0.002931
+[2020.07.09-20.54.35:736][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.07.09-20.54.35:748][ 42]PIE: Server logged in
+[2020.07.09-20.54.35:751][ 42]PIE: Play in editor total start time 0,687 seconds.
+[2020.07.09-20.54.56:590][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-20.54.56:590][971]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-20.54.56:591][971]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-20.54.56:592][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.54.56:598][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-20.54.56:604][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.54.56:643][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-20.54.56:664][971]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E43E9FB00), frame # 11971
+[2020.07.09-20.54.56:664][971]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E354D4800), frame # 11971
+[2020.07.09-20.54.56:667][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.07.09-20.54.56:702][972]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.07.09-20.55.38:402][722]LogSlate: Took 0.001020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.09-20.55.42:187][882]BlueprintLog: New page: Compile NewBall
+[2020.07.09-20.55.42:309][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.07.09-20.55.42:440][882]LogSlate: Took 0.016077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.09-20.55.43:501][920]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.09-20.55.43:577][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/NewBall" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset" SILENT=true
+[2020.07.09-20.55.44:098][920]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBall5C0CAD4F4344EB434506448E195D30D9.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset'
+[2020.07.09-20.55.44:164][920]AssetCheck: New page: Asset Save: NewBall
+[2020.07.09-20.55.44:164][920]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-20.55.45:870][984]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-20.55.45:897][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-20.55.45:898][984]PIE: New page: PIE session: RollingBPExampleMap (09-07-2020 12:55:45)
+[2020.07.09-20.55.45:898][984]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-20.55.45:936][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037486s)
+[2020.07.09-20.55.45:938][984]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-20.55.45:938][984]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E84202C00), frame # 13984
+[2020.07.09-20.55.45:938][984]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E30085300), frame # 13984
+[2020.07.09-20.55.45:938][984]LogPlayLevel: PIE: World Init took: (0.002705s)
+[2020.07.09-20.55.45:938][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.040517s)
+[2020.07.09-20.55.46:016][984]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.07.09-20.55.46:021][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-20.55.46:021][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-20.55.46:021][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-20.55.46:021][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-20.55.46:021][984]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-20.55.46:021][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-20.55.46:022][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-20.55.46:022][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-20.55.46:023][984]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-20.55.46:023][984]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-20.55.46:032][984]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-20.55.46:032][984]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-20.55.46:069][984]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-20.55.46:069][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-20.55.46:069][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-20.55.46:069][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-20.55.46:070][984]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-20.55.46:094][984]LogInit: FAudioDevice initialized.
+[2020.07.09-20.55.46:102][984]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.09-20.55.46:107][984]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.09-16.55.46
+[2020.07.09-20.55.46:107][984]LogWorld: Bringing up level for play took: 0.003883
+[2020.07.09-20.55.46:107][984]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.07.09-20.55.46:111][984]PIE: Server logged in
+[2020.07.09-20.55.46:112][984]PIE: Play in editor total start time 0,218 seconds.
+[2020.07.09-20.55.53:828][333]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-20.55.53:829][333]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-20.55.54:216][350]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-20.55.54:218][350]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-20.55.58:980][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-20.55.58:981][579]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-20.55.58:981][579]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-20.55.58:982][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.55.58:993][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-20.55.58:998][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.55.59:035][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-20.55.59:058][579]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E30085300), frame # 14579
+[2020.07.09-20.55.59:058][579]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E84202C00), frame # 14579
+[2020.07.09-20.55.59:062][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.07.09-20.55.59:101][580]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.07.09-21.00.35:134][819]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.07.09-21.00.35:393][819]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap_Auto17D8D6E4A46A9A2BFCD9425BFC1D3C3CE.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto1.umap'
+[2020.07.09-21.00.35:400][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RollingBP/Maps/RollingBPExampleMap' took 0.313
+[2020.07.09-21.00.35:400][819]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.313
+[2020.07.09-21.00.35:401][819]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollingBP/NewBall] ([1] browsable assets)...
+[2020.07.09-21.00.35:410][819]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RollingBP/NewBall.NewBall]
+[2020.07.09-21.00.35:410][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollingBP/NewBall]
+[2020.07.09-21.00.35:432][819]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBall_Auto1B9A11B26431C4203D20D75B66AA65851.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Autosaves/Game/RollingBP/NewBall_Auto1.uasset'
+[2020.07.09-21.00.35:433][819]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollingBP/TriggerObject] ([1] browsable assets)...
+[2020.07.09-21.00.35:443][819]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RollingBP/TriggerObject.TriggerObject]
+[2020.07.09-21.00.35:443][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollingBP/TriggerObject]
+[2020.07.09-21.00.35:464][819]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/TriggerObject_Auto12E34E79D47B4E37A265A79B5BD900FBE.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Autosaves/Game/RollingBP/TriggerObject_Auto1.uasset'
+[2020.07.09-21.00.35:466][819]LogFileHelpers: Auto-saving content packages took 0.065
+[2020.07.09-21.01.08:350][255]BlueprintLog: New page: Compile TriggerObject
+[2020.07.09-21.01.08:449][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.07.09-21.01.09:257][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/TriggerObject" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/TriggerObject.uasset" SILENT=true
+[2020.07.09-21.01.09:274][289]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/TriggerObject25EAA60C45CA81A7CB856A824AE175A8.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/TriggerObject.uasset'
+[2020.07.09-21.01.09:308][289]AssetCheck: New page: Asset Save: TriggerObject
+[2020.07.09-21.01.09:308][289]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/TriggerObject.TriggerObject
+[2020.07.09-21.01.14:339][507]BlueprintLog: New page: Compile TriggerObject1
+[2020.07.09-21.01.14:440][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.07.09-21.01.15:295][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/TriggerObject1" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/TriggerObject1.uasset" SILENT=true
+[2020.07.09-21.01.15:322][540]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/TriggerObject111984CE7480992B68824978A7F7D19E9.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/TriggerObject1.uasset'
+[2020.07.09-21.01.15:345][540]AssetCheck: New page: Asset Save: TriggerObject1
+[2020.07.09-21.01.15:345][540]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/TriggerObject1.TriggerObject1
+[2020.07.09-21.01.16:985][612]BlueprintLog: New page: Compile NewBall
+[2020.07.09-21.01.17:119][612]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2020.07.09-21.01.19:015][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/NewBall" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset" SILENT=true
+[2020.07.09-21.01.19:046][687]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBall0801A59A464FBD149DD51093BC5DE6D8.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset'
+[2020.07.09-21.01.19:062][687]AssetCheck: New page: Asset Save: NewBall
+[2020.07.09-21.01.19:062][687]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-21.01.28:005][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.07.09-21.01.28:082][ 60]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap640E7D3D47070D5577599984989B7298.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2020.07.09-21.01.30:286][ 60]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap_BuiltData965AE8424807C31F90A30C8630969C47.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2020.07.09-21.01.30:332][ 60]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-21.01.30:332][ 60]LogContentValidation: Display: Validating World /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap
+[2020.07.09-21.01.30:332][ 60]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RollingBP/Maps/RollingBPExampleMap_BuiltData.RollingBPExampleMap_BuiltData
+[2020.07.09-21.01.32:342][144]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-21.01.32:363][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-21.01.32:364][144]PIE: New page: PIE session: RollingBPExampleMap (09-07-2020 13:01:32)
+[2020.07.09-21.01.32:364][144]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.01.32:409][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044758s)
+[2020.07.09-21.01.32:412][144]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-21.01.32:412][144]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E97C6BE00), frame # 28144
+[2020.07.09-21.01.32:413][144]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E9BBD2840), frame # 28144
+[2020.07.09-21.01.32:414][144]LogPlayLevel: PIE: World Init took: (0.004416s)
+[2020.07.09-21.01.32:414][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.049829s)
+[2020.07.09-21.01.32:465][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.07.09-21.01.32:467][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-21.01.32:467][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-21.01.32:467][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-21.01.32:467][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-21.01.32:467][144]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-21.01.32:467][144]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-21.01.32:467][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-21.01.32:467][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-21.01.32:468][144]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-21.01.32:468][144]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-21.01.32:477][144]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-21.01.32:477][144]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-21.01.32:515][144]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-21.01.32:515][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-21.01.32:515][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-21.01.32:515][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-21.01.32:516][144]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-21.01.32:536][144]LogInit: FAudioDevice initialized.
+[2020.07.09-21.01.32:544][144]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.09-21.01.32:547][144]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.09-17.01.32
+[2020.07.09-21.01.32:547][144]LogWorld: Bringing up level for play took: 0.002552
+[2020.07.09-21.01.32:547][144]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.07.09-21.01.32:549][144]PIE: Server logged in
+[2020.07.09-21.01.32:550][144]PIE: Play in editor total start time 0,188 seconds.
+[2020.07.09-21.01.36:123][291]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.01.36:123][291]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.01.37:885][367]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.01.37:915][368]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.01.43:187][601]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.01.43:188][601]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.01.46:348][743]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.01.46:348][743]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.01.50:148][911]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.01.50:173][912]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.01.55:257][143]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.01.55:280][144]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.01.56:211][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.01.56:211][185]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.01.56:211][185]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-21.01.56:214][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.01.56:226][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-21.01.56:232][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.01.56:276][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.01.56:304][185]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E9BBD2840), frame # 29185
+[2020.07.09-21.01.56:304][185]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E97C6BE00), frame # 29185
+[2020.07.09-21.01.56:308][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.07.09-21.01.56:366][186]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.07.09-21.02.23:375][163]BlueprintLog: New page: Compile NewBall
+[2020.07.09-21.02.23:544][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.07.09-21.02.24:289][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/NewBall" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset" SILENT=true
+[2020.07.09-21.02.24:320][183]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBall39785A8D440A24D545DCEAADEAB2BBA0.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset'
+[2020.07.09-21.02.24:344][183]AssetCheck: New page: Asset Save: NewBall
+[2020.07.09-21.02.24:344][183]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-21.02.27:035][287]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-21.02.27:067][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-21.02.27:067][287]PIE: New page: PIE session: RollingBPExampleMap (09-07-2020 13:02:27)
+[2020.07.09-21.02.27:068][287]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.02.27:108][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039458s)
+[2020.07.09-21.02.27:110][287]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-21.02.27:110][287]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E97E45000), frame # 30287
+[2020.07.09-21.02.27:110][287]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E9B9D9A80), frame # 30287
+[2020.07.09-21.02.27:111][287]LogPlayLevel: PIE: World Init took: (0.002441s)
+[2020.07.09-21.02.27:111][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.042307s)
+[2020.07.09-21.02.27:276][287]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2020.07.09-21.02.27:280][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-21.02.27:281][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-21.02.27:281][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-21.02.27:281][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-21.02.27:281][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-21.02.27:281][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-21.02.27:281][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-21.02.27:281][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-21.02.27:282][287]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-21.02.27:282][287]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-21.02.27:294][287]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-21.02.27:294][287]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-21.02.27:338][287]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-21.02.27:338][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-21.02.27:339][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-21.02.27:339][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-21.02.27:339][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-21.02.27:356][287]LogInit: FAudioDevice initialized.
+[2020.07.09-21.02.27:364][287]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.09-21.02.27:367][287]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.09-17.02.27
+[2020.07.09-21.02.27:368][287]LogWorld: Bringing up level for play took: 0.002965
+[2020.07.09-21.02.27:368][287]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.07.09-21.02.27:370][287]PIE: Server logged in
+[2020.07.09-21.02.27:371][287]PIE: Play in editor total start time 0,308 seconds.
+[2020.07.09-21.02.29:769][396]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.02.29:770][396]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.02.31:324][466]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.02.31:324][466]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.02.36:133][686]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.02.36:158][687]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.02.37:681][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.02.37:681][755]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.02.37:681][755]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-21.02.37:682][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.02.37:693][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-21.02.37:699][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.02.37:761][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.02.37:762][755]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E9B9D9A80), frame # 30755
+[2020.07.09-21.02.37:762][755]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E97E45000), frame # 30755
+[2020.07.09-21.02.37:765][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.09-21.02.37:795][756]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.07.09-21.05.03:933][225]LogRenderer: Reallocating scene render targets to support 1000x536 Format 10 NumSamples 1 (Frame:9580).
+[2020.07.09-21.10.49:516][402]BlueprintLog: New page: Compile NewBall
+[2020.07.09-21.10.49:644][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.07.09-21.10.50:292][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/NewBall" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset" SILENT=true
+[2020.07.09-21.10.50:380][423]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBall4829AF554DED12C567C70B9EE2073996.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset'
+[2020.07.09-21.10.50:400][423]AssetCheck: New page: Asset Save: NewBall
+[2020.07.09-21.10.50:400][423]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-21.10.57:534][720]LogEditorViewport: Clicking on Actor (LMB): NewBall_C (NewBall)
+[2020.07.09-21.12.02:463][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.07.09-21.12.02:534][ 31]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap_Auto2BE5F43754ACCF7AF11EEB48E42C6FA21.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto2.umap'
+[2020.07.09-21.12.02:536][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RollingBP/Maps/RollingBPExampleMap' took 0.114
+[2020.07.09-21.12.02:536][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.114
+[2020.07.09-21.15.46:315][885]Cmd: DELETE
+[2020.07.09-21.15.46:316][885]Cmd: ACTOR DELETE
+[2020.07.09-21.15.46:739][885]LogEditorActor: Deleted Actor: NewBall_C
+[2020.07.09-21.15.46:794][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.07.09-21.15.46:797][885]LogEditorActor: Deleted 1 Actors (0.186 secs)
+[2020.07.09-21.16.20:003][372]LogEditorViewport: Clicking on Actor (LMB): NewBall_C (NewBall)
+[2020.07.09-21.16.21:480][417]LogEditorViewport: Clicking on Actor (LMB): NewBall_C (NewBall)
+[2020.07.09-21.16.21:518][417]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sphere)
+[2020.07.09-21.17.12:666][889]BlueprintLog: New page: Compile NewBall
+[2020.07.09-21.17.12:796][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.07.09-21.17.14:375][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/NewBall" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset" SILENT=true
+[2020.07.09-21.17.14:427][948]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBallA68F78B4421359258037B48ABA30F0D1.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset'
+[2020.07.09-21.17.14:440][948]AssetCheck: New page: Asset Save: NewBall
+[2020.07.09-21.17.14:440][948]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-21.17.25:478][391]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ground)
+[2020.07.09-21.17.27:743][456]LogEditorViewport: Clicking on Actor (LMB): NewBall_C (NewBall)
+[2020.07.09-21.17.31:343][571]LogEditorViewport: Clicking on Actor (LMB): TriggerObject_C (TriggerObject)
+[2020.07.09-21.17.36:110][757]BlueprintLog: New page: Compile NewBall
+[2020.07.09-21.17.36:230][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.07.09-21.17.36:829][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/NewBall" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset" SILENT=true
+[2020.07.09-21.17.36:858][775]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBall92708BC24B17B62EC5EE30B267103607.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset'
+[2020.07.09-21.17.36:874][775]AssetCheck: New page: Asset Save: NewBall
+[2020.07.09-21.17.36:874][775]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-21.17.41:940][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.07.09-21.17.42:010][963]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap38466DDF438C5E436783FC83869C8EB2.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2020.07.09-21.17.43:456][963]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap_BuiltData8879DDF545394766AFB2AA808BDBECEA.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2020.07.09-21.17.43:502][963]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-21.17.43:503][963]LogContentValidation: Display: Validating World /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap
+[2020.07.09-21.17.43:503][963]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RollingBP/Maps/RollingBPExampleMap_BuiltData.RollingBPExampleMap_BuiltData
+[2020.07.09-21.17.45:097][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-21.17.45:299][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-21.17.45:300][ 22]PIE: New page: PIE session: RollingBPExampleMap (09-07-2020 13:17:45)
+[2020.07.09-21.17.45:300][ 22]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.17.45:322][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023455s)
+[2020.07.09-21.17.45:326][ 22]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-21.17.45:326][ 22]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022EAB4CCE00), frame # 67022
+[2020.07.09-21.17.45:326][ 22]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022EAF1F87C0), frame # 67022
+[2020.07.09-21.17.45:326][ 22]LogPlayLevel: PIE: World Init took: (0.003620s)
+[2020.07.09-21.17.45:326][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.027511s)
+[2020.07.09-21.17.45:359][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.07.09-21.17.45:361][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-21.17.45:361][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-21.17.45:361][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-21.17.45:361][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-21.17.45:361][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-21.17.45:361][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-21.17.45:361][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-21.17.45:361][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-21.17.45:361][ 22]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-21.17.45:361][ 22]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-21.17.45:379][ 22]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-21.17.45:379][ 22]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-21.17.45:431][ 22]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-21.17.45:431][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-21.17.45:431][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-21.17.45:431][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-21.17.45:431][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-21.17.45:454][ 22]LogInit: FAudioDevice initialized.
+[2020.07.09-21.17.45:463][ 22]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.09-21.17.45:467][ 22]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.09-17.17.45
+[2020.07.09-21.17.45:467][ 22]LogWorld: Bringing up level for play took: 0.003301
+[2020.07.09-21.17.45:468][ 22]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.07.09-21.17.45:470][ 22]PIE: Server logged in
+[2020.07.09-21.17.45:471][ 22]PIE: Play in editor total start time 0,282 seconds.
+[2020.07.09-21.17.49:284][175]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.17.49:284][175]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.17.51:094][247]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.17.51:114][248]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.17.56:534][475]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.17.56:571][476]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.17.57:942][532]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.17.57:965][533]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.18.00:189][627]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.18.00:217][628]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.18.01:498][684]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.18.01:498][684]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.18.04:937][828]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.18.04:938][828]LogBlueprintUserMessages: [NewBall_2] PLZ UWU
+[2020.07.09-21.18.37:812][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.18.37:812][234]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.18.37:812][234]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-21.18.37:813][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.18.37:827][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-21.18.37:834][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.18.37:891][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.18.37:892][234]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022EAF1F87C0), frame # 69234
+[2020.07.09-21.18.37:892][234]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022EAB4CCE00), frame # 69234
+[2020.07.09-21.18.37:895][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.07.09-21.18.37:915][235]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.07.09-21.18.52:646][895]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-21.18.52:646][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.18.57:988][136]LogEditorViewport: Clicking on Actor (LMB): TriggerObject1_C (TriggerObject1)
+[2020.07.09-21.18.59:073][179]Cmd: DELETE
+[2020.07.09-21.18.59:073][179]Cmd: ACTOR DELETE
+[2020.07.09-21.18.59:096][179]LogEditorActor: Deleted Actor: TriggerObject1_C
+[2020.07.09-21.18.59:181][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.07.09-21.18.59:184][179]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2020.07.09-21.19.33:510][890]BlueprintLog: New page: Compile NewBall
+[2020.07.09-21.19.33:647][890]LogBlueprint: Error: [Compiler TriggerObject1] In use pin  <Unnamed>  no longer exists on node  Cambiar Material 1 . Please refresh node or break links to remove pin.
+[2020.07.09-21.19.33:647][890]LogBlueprint: Error: [Compiler TriggerObject1] In use pin  Target  no longer exists on node  Cambiar Material 1 . Please refresh node or break links to remove pin.
+[2020.07.09-21.19.33:647][890]LogBlueprint: Error: [Compiler TriggerObject1] Could not find a function named "Cambiar Material 1" in 'NewBall_C'.
+Make sure 'NewBall_C' has been compiled for  Cambiar Material 1
+[2020.07.09-21.19.33:775][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.07.09-21.19.34:789][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/NewBall" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset" SILENT=true
+[2020.07.09-21.19.34:822][937]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBallD4381E1347499480DA4B3AAA651BE3DB.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset'
+[2020.07.09-21.19.34:838][937]AssetCheck: New page: Asset Save: NewBall
+[2020.07.09-21.19.34:838][937]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-21.19.45:268][418]LogEditorViewport: Clicking on Actor (LMB): TriggerObject_C (TriggerObject)
+[2020.07.09-21.19.46:010][447]Cmd: DELETE
+[2020.07.09-21.19.46:010][447]Cmd: ACTOR DELETE
+[2020.07.09-21.19.46:024][447]LogEditorActor: Deleted Actor: TriggerObject_C
+[2020.07.09-21.19.46:082][447]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.07.09-21.19.46:086][447]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2020.07.09-21.20.10:061][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.07.09-21.20.10:114][441]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap25651F4D457DF06ABF2C8CB938770783.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2020.07.09-21.20.11:372][441]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap_BuiltData24D4B4414D40DA197D10D581F1522127.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2020.07.09-21.20.11:401][441]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-21.20.11:401][441]LogContentValidation: Display: Validating World /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap
+[2020.07.09-21.20.11:401][441]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RollingBP/Maps/RollingBPExampleMap_BuiltData.RollingBPExampleMap_BuiltData
+[2020.07.09-21.20.13:051][502]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-21.20.13:103][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-21.20.13:103][502]BlueprintLog: Warning: Blueprint failed to compile:  TriggerObject1
+[2020.07.09-21.20.13:138][502]LogCustomDialog: Dialog displayed:
+[2020.07.09-21.20.16:126][502]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.07.09-21.20.17:704][550]LogSlate: Window 'Message Log' being destroyed
+[2020.07.09-21.20.17:714][550]LogSlate: Window 'Message Log' being destroyed
+[2020.07.09-21.20.18:583][578]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2020.07.09-21.20.18:646][578]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap814C999B495FFECF208C98938D4F345D.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2020.07.09-21.20.20:158][578]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap_BuiltData00AFEDA84FE52F539E3B648C23DC5AA7.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2020.07.09-21.20.20:158][578]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset', retrying in .5s...
+[2020.07.09-21.20.20:662][578]LogFileManager: Warning: DeleteFile recovered during retry!
+[2020.07.09-21.20.20:708][578]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-21.20.20:708][578]LogContentValidation: Display: Validating World /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap
+[2020.07.09-21.20.20:708][578]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RollingBP/Maps/RollingBPExampleMap_BuiltData.RollingBPExampleMap_BuiltData
+[2020.07.09-21.20.21:170][597]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-21.20.21:188][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-21.20.21:188][597]BlueprintLog: Warning: Blueprint failed to compile:  TriggerObject1
+[2020.07.09-21.20.21:188][597]LogCustomDialog: Dialog displayed:
+[2020.07.09-21.20.27:946][597]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.07.09-21.20.27:958][597]PIE: New page: PIE session: RollingBPExampleMap (09-07-2020 13:20:27)
+[2020.07.09-21.20.27:959][597]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.20.27:997][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037616s)
+[2020.07.09-21.20.27:998][597]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-21.20.27:998][597]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E97F46C00), frame # 73597
+[2020.07.09-21.20.27:999][597]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E72AFF4C0), frame # 73597
+[2020.07.09-21.20.27:999][597]LogPlayLevel: PIE: World Init took: (0.002272s)
+[2020.07.09-21.20.27:999][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.040303s)
+[2020.07.09-21.20.28:042][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.07.09-21.20.28:043][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-21.20.28:043][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-21.20.28:043][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-21.20.28:043][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-21.20.28:043][597]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-21.20.28:043][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-21.20.28:043][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-21.20.28:043][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-21.20.28:044][597]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-21.20.28:044][597]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-21.20.28:055][597]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-21.20.28:055][597]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-21.20.28:103][597]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-21.20.28:103][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-21.20.28:103][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-21.20.28:103][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-21.20.28:104][597]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-21.20.28:129][597]LogInit: FAudioDevice initialized.
+[2020.07.09-21.20.28:140][597]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.09-21.20.28:144][597]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.09-17.20.28
+[2020.07.09-21.20.28:144][597]LogWorld: Bringing up level for play took: 0.003336
+[2020.07.09-21.20.28:144][597]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.07.09-21.20.28:147][597]PIE: Server logged in
+[2020.07.09-21.20.28:150][597]PIE: Play in editor total start time 6,965 seconds.
+[2020.07.09-21.20.32:917][796]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.20.32:936][797]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.20.35:602][911]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.20.35:625][912]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.20.41:407][159]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.20.41:407][159]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.20.45:178][321]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.20.45:179][321]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.21.03:263][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.21.03:264][ 96]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.21.03:264][ 96]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-21.21.03:265][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.21.03:281][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-21.21.03:293][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.21.03:327][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.21.03:354][ 96]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E72AFF4C0), frame # 75096
+[2020.07.09-21.21.03:354][ 96]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E97F46C00), frame # 75096
+[2020.07.09-21.21.03:358][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.07.09-21.21.03:381][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.07.09-21.21.05:333][181]LogEditorViewport: Clicking on Actor (LMB): NewBall_C (NewBall)
+[2020.07.09-21.21.05:437][182]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sphere)
+[2020.07.09-21.21.35:091][122]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-21.21.35:137][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-21.21.35:137][122]PIE: New page: PIE session: RollingBPExampleMap (09-07-2020 13:21:35)
+[2020.07.09-21.21.35:137][122]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.21.35:180][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043189s)
+[2020.07.09-21.21.35:182][122]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-21.21.35:182][122]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022EB04A2000), frame # 76122
+[2020.07.09-21.21.35:200][122]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E94506980), frame # 76122
+[2020.07.09-21.21.35:200][122]LogPlayLevel: PIE: World Init took: (0.019908s)
+[2020.07.09-21.21.35:200][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.063387s)
+[2020.07.09-21.21.35:231][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.07.09-21.21.35:234][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-21.21.35:234][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-21.21.35:234][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-21.21.35:234][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-21.21.35:234][122]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-21.21.35:234][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-21.21.35:234][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-21.21.35:234][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-21.21.35:234][122]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-21.21.35:234][122]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-21.21.35:240][122]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-21.21.35:240][122]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-21.21.35:270][122]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-21.21.35:270][122]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-21.21.35:270][122]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-21.21.35:270][122]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-21.21.35:271][122]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-21.21.35:292][122]LogInit: FAudioDevice initialized.
+[2020.07.09-21.21.35:302][122]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.09-21.21.35:306][122]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.09-17.21.35
+[2020.07.09-21.21.35:306][122]LogWorld: Bringing up level for play took: 0.003277
+[2020.07.09-21.21.35:307][122]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.07.09-21.21.35:310][122]PIE: Server logged in
+[2020.07.09-21.21.35:311][122]PIE: Play in editor total start time 0,192 seconds.
+[2020.07.09-21.21.40:175][331]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.21.40:175][331]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.23.10:044][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.23.10:044][303]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.23.10:044][303]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-21.23.10:046][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.23.10:061][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-21.23.10:067][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.23.10:126][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.23.10:127][303]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E94506980), frame # 80303
+[2020.07.09-21.23.10:127][303]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022EB04A2000), frame # 80303
+[2020.07.09-21.23.10:130][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.07.09-21.23.10:160][304]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.07.09-21.24.04:188][761]BlueprintLog: New page: Compile NewBall
+[2020.07.09-21.24.04:273][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.07.09-21.24.05:198][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/NewBall" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset" SILENT=true
+[2020.07.09-21.24.05:236][792]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBall2079569C4DE518D0E19397BFC76ABD1D.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset'
+[2020.07.09-21.24.05:260][792]AssetCheck: New page: Asset Save: NewBall
+[2020.07.09-21.24.05:261][792]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-21.24.12:312][101]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-21.24.12:336][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-21.24.12:337][101]PIE: New page: PIE session: RollingBPExampleMap (09-07-2020 13:24:12)
+[2020.07.09-21.24.12:337][101]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.24.12:389][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051879s)
+[2020.07.09-21.24.12:393][101]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-21.24.12:393][101]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E3509E200), frame # 83101
+[2020.07.09-21.24.12:393][101]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022EC1BA9F80), frame # 83101
+[2020.07.09-21.24.12:394][101]LogPlayLevel: PIE: World Init took: (0.004516s)
+[2020.07.09-21.24.12:394][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.056837s)
+[2020.07.09-21.24.12:441][101]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.07.09-21.24.12:443][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-21.24.12:444][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-21.24.12:444][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-21.24.12:444][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-21.24.12:444][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-21.24.12:444][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-21.24.12:444][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-21.24.12:444][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-21.24.12:445][101]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-21.24.12:445][101]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-21.24.12:452][101]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-21.24.12:453][101]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-21.24.12:487][101]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-21.24.12:487][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-21.24.12:487][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-21.24.12:487][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-21.24.12:488][101]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-21.24.12:500][101]LogInit: FAudioDevice initialized.
+[2020.07.09-21.24.12:510][101]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.09-21.24.12:514][101]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.09-17.24.12
+[2020.07.09-21.24.12:514][101]LogWorld: Bringing up level for play took: 0.003479
+[2020.07.09-21.24.12:514][101]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.07.09-21.24.12:520][101]PIE: Server logged in
+[2020.07.09-21.24.12:522][101]PIE: Play in editor total start time 0,188 seconds.
+[2020.07.09-21.24.14:509][198]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.24.14:509][198]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.24.48:713][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.24.48:713][880]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.24.48:713][880]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-21.24.48:714][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.24.48:735][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-21.24.48:742][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.24.48:801][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.24.48:802][880]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022EC1BA9F80), frame # 84880
+[2020.07.09-21.24.48:802][880]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E3509E200), frame # 84880
+[2020.07.09-21.24.48:805][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.07.09-21.24.48:833][881]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.07.09-21.26.20:333][691]BlueprintLog: New page: Compile NewBall
+[2020.07.09-21.26.20:479][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.07.09-21.26.26:374][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/NewBall" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset" SILENT=true
+[2020.07.09-21.26.26:406][933]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBallD274AB3648744E9C55586DA77EDCB103.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset'
+[2020.07.09-21.26.26:422][933]AssetCheck: New page: Asset Save: NewBall
+[2020.07.09-21.26.26:422][933]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-21.26.28:634][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-21.26.28:665][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-21.26.28:665][ 28]PIE: New page: PIE session: RollingBPExampleMap (09-07-2020 13:26:28)
+[2020.07.09-21.26.28:699][ 28]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.26.28:734][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034713s)
+[2020.07.09-21.26.28:737][ 28]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.09-21.26.28:737][ 28]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022EC1D2F200), frame # 89028
+[2020.07.09-21.26.28:737][ 28]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E696D7C40), frame # 89028
+[2020.07.09-21.26.28:737][ 28]LogPlayLevel: PIE: World Init took: (0.002850s)
+[2020.07.09-21.26.28:737][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.037930s)
+[2020.07.09-21.26.28:776][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.07.09-21.26.28:780][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-21.26.28:780][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-21.26.28:780][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-21.26.28:780][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-21.26.28:780][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-21.26.28:780][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-21.26.28:780][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-21.26.28:781][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-21.26.28:781][ 28]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-21.26.28:781][ 28]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-21.26.28:790][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-21.26.28:790][ 28]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-21.26.28:831][ 28]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.09-21.26.28:831][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-21.26.28:831][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-21.26.28:831][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-21.26.28:832][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-21.26.28:845][ 28]LogInit: FAudioDevice initialized.
+[2020.07.09-21.26.28:858][ 28]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.09-21.26.28:863][ 28]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.09-17.26.28
+[2020.07.09-21.26.28:863][ 28]LogWorld: Bringing up level for play took: 0.004531
+[2020.07.09-21.26.28:864][ 28]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.07.09-21.26.28:866][ 28]PIE: Server logged in
+[2020.07.09-21.26.28:867][ 28]PIE: Play in editor total start time 0,205 seconds.
+[2020.07.09-21.26.52:767][155]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.26.52:768][155]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.27.13:906][168]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.27.13:907][168]LogBlueprintUserMessages: [NewBall_2] NewBallPor favor cambia
+[2020.07.09-21.27.25:106][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.27.25:106][705]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.09-21.27.25:106][705]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-21.27.25:108][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.27.25:126][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-21.27.25:132][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-21.27.25:196][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-21.27.25:198][705]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E696D7C40), frame # 91705
+[2020.07.09-21.27.25:199][705]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022EC1D2F200), frame # 91705
+[2020.07.09-21.27.25:203][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.07.09-21.27.25:233][706]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.07.09-21.27.37:746][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.07.09-21.27.37:811][279]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap36366CCB40D3BA011C9A4395546E7BCA.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2020.07.09-21.27.39:175][279]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap_BuiltData848C2665494C6098700F4795871054B0.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2020.07.09-21.27.39:215][279]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-21.27.39:215][279]LogContentValidation: Display: Validating World /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap
+[2020.07.09-21.27.39:215][279]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RollingBP/Maps/RollingBPExampleMap_BuiltData.RollingBPExampleMap_BuiltData
+[2020.07.09-21.48.03:828][662]BlueprintLog: New page: Compile NewBall
+[2020.07.09-21.48.04:062][662]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.07.09-21.48.04:735][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/NewBall" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset" SILENT=true
+[2020.07.09-21.48.04:868][693]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/NewBallB2EB9E024E38FC123AED17AF6873039F.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/NewBall.uasset'
+[2020.07.09-21.48.04:893][693]AssetCheck: New page: Asset Save: NewBall
+[2020.07.09-21.48.04:893][693]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/NewBall.NewBall
+[2020.07.09-21.48.08:276][874]BlueprintLog: New page: Compile TriggerObject
+[2020.07.09-21.48.08:454][874]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.07.09-21.48.11:467][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/TriggerObject" FILE="C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/TriggerObject.uasset" SILENT=true
+[2020.07.09-21.48.11:663][ 46]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/TriggerObject7ECF18E44D524D66C6ACDB9EA353336C.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Content/RollingBP/TriggerObject.uasset'
+[2020.07.09-21.48.11:689][ 46]AssetCheck: New page: Asset Save: TriggerObject
+[2020.07.09-21.48.11:689][ 46]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/TriggerObject.TriggerObject
+[2020.07.09-21.48.38:662][170]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2020.07.09-21.48.38:772][170]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/RollingBPExampleMap_Auto3EA6280754E7EDDECD4CE4080F7051958.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo1/Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto3.umap'
+[2020.07.09-21.48.38:774][170]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RollingBP/Maps/RollingBPExampleMap' took 0.178
+[2020.07.09-21.48.38:774][170]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.178
+[2020.07.09-23.12.24:246][432]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.09-23.12.27:100][433]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.03:168][229]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.07:040][229]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.07:549][231]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.08:049][232]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.08:551][233]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.09:717][234]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.07.10-01.31.10:219][235]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.10:720][236]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.13:563][237]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.14:133][238]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.07.10-01.31.16:830][238]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.17:331][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.07.10-01.31.17:331][239]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.07.10-01.31.19:588][239]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.07.10-01.31.42:693][306]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.31.43:194][307]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.34.35:194][820]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.34.35:694][821]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.34.36:195][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.34.36:696][823]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.07.10-01.34.37:196][823]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.34.37:698][824]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.07.10-01.34.37:698][824]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.07.10-01.34.38:198][824]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.34.38:425][825]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.07.10-01.35.56:515][ 46]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.35.57:016][ 47]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.35.57:517][ 48]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.35.58:017][ 49]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.07.10-01.35.58:518][ 49]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.35.59:020][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.07.10-01.35.59:020][ 50]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.07.10-01.35.59:519][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.36.00:021][ 51]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.07.10-01.36.00:021][ 51]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.07.10-01.36.01:697][ 51]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.10-01.36.02:198][ 52]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.07.10-01.36.02:198][ 52]LogRendererCore: Warning: Query 'SlateUI' not ready.
