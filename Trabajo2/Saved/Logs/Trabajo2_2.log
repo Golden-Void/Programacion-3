@@ -665,3 +665,907 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.22-05.57.43:469][658]LogSlate: Window 'Clase_GameMode' being destroyed
 [2020.08.22-05.57.43:522][658]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2020.08.22-05.57.43:523][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-06.06.14:420][117]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.22-06.08.09:003][ 76]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.22-06.08.58:763][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Manager/Clase_GameMode.Clase_GameMode
+[2020.08.22-06.09.07:403][440]LogSlate: Window 'Clase_GameMode' being destroyed
+[2020.08.22-06.09.07:416][440]LogSlate: Window 'Clase_GameMode' being destroyed
+[2020.08.22-06.09.07:438][440]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-06.09.07:438][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-06.10.21:953][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Manager/Clase_GameMode.Clase_GameMode
+[2020.08.22-06.10.25:120][786]LogSlate: Window 'Clase_GameMode' being destroyed
+[2020.08.22-06.10.25:142][786]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-06.10.25:142][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-06.10.26:476][830]LogSlate: Window 'Details' being destroyed
+[2020.08.22-06.10.26:493][830]LogSlate: Window 'Details' being destroyed
+[2020.08.22-06.10.33:333][ 69]LogSlate: Window 'Details' being destroyed
+[2020.08.22-06.11.04:375][ 43]LogRenderer: Reallocating scene render targets to support 892x456 Format 10 NumSamples 1 (Frame:2562).
+[2020.08.22-06.11.04:458][ 44]LogRenderer: Reallocating scene render targets to support 892x464 Format 10 NumSamples 1 (Frame:2564).
+[2020.08.22-06.12.40:853][ 46]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Manager/Clase_GameMode.Clase_GameMode
+[2020.08.22-06.13.11:233][ 28]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.08.22-06.17.37:427][958]LogSlate: Window 'Clase_GameMode' being destroyed
+[2020.08.22-06.17.37:444][958]LogSlate: Window 'Clase_GameMode' being destroyed
+[2020.08.22-06.17.37:447][958]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-06.17.37:448][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-06.25.33:855][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Manager/Clase_GameMode.Clase_GameMode
+[2020.08.22-06.26.00:675][140]LogSlate: Window 'Class Defaults' being destroyed
+[2020.08.22-06.26.00:683][140]LogSlate: Window 'Class Defaults' being destroyed
+[2020.08.22-06.26.00:683][140]LogSlate: Window 'Clase_GameMode' being destroyed
+[2020.08.22-06.26.00:762][140]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-06.26.00:762][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-06.26.00:986][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Manager/Clase_GameMode.Clase_GameMode
+[2020.08.22-06.26.02:773][140]LogSlate: Took 0.079850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.22-06.48.36:369][291]LogSlate: Window 'Clase_GameMode' being destroyed
+[2020.08.22-06.49.09:869][739]LogSlate: Took 0.086031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.22-06.50.06:382][889]LogUObjectHash: Compacting FUObjectHashTables data took 642.80ms
+[2020.08.22-06.50.07:885][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 7.079
+[2020.08.22-06.50.08:087][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Manager/Clase_GameMode] ([1] browsable assets)...
+[2020.08.22-06.50.08:092][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Manager/Clase_GameMode]
+[2020.08.22-06.50.09:476][889]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_GameMode_Auto18F0AF45B4D449A14131ADF8FCCF5CA1C.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Autosaves/Game/ThirdPersonBP/Manager/Clase_GameMode_Auto1.uasset'
+[2020.08.22-06.50.09:567][889]LogFileHelpers: Auto-saving content packages took 1.624
+[2020.08.22-06.50.58:064][944]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-06.51.44:940][895]BlueprintLog: New page: Compile Clase_GameMode
+[2020.08.22-06.51.45:494][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.08.22-06.51.45:731][895]LogSlate: Took 0.016825 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.22-06.51.46:966][947]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_GameMode97CA7C6540794C4F2C6A3698B9E2287F.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Manager/Clase_GameMode.uasset'
+[2020.08.22-06.51.47:117][947]AssetCheck: New page: Asset Save: Clase_GameMode
+[2020.08.22-06.51.47:153][947]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Manager/Clase_GameMode.Clase_GameMode
+[2020.08.22-06.53.33:143][929]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-06.53.34:139][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.08.22-06.53.35:777][960]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter11AAC355B430221224ED50B85F6D8BDE1.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-06.53.35:902][960]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-06.53.35:902][960]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-06.55.52:102][831]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-06.55.52:755][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-06.55.53:436][831]PIE: New page: PIE session: ThirdPersonExampleMap (21-08-2020 22:55:52)
+[2020.08.22-06.55.53:887][831]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.22-06.55.54:049][831]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.22-06.55.54:102][831]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-06.55.55:032][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.913837s)
+[2020.08.22-06.55.55:198][831]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.22-06.55.55:212][831]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F539E1800), frame # 33831
+[2020.08.22-06.55.55:213][831]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F548A5940), frame # 33831
+[2020.08.22-06.55.55:296][831]LogPlayLevel: PIE: World Init took: (0.264299s)
+[2020.08.22-06.55.55:327][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (1.194306s)
+[2020.08.22-06.55.55:472][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.08.22-06.55.55:688][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-06.55.55:688][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-06.55.55:688][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-06.55.55:688][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-06.55.55:688][831]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-06.55.55:688][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-06.55.55:688][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-06.55.55:689][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-06.55.55:763][831]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-06.55.55:763][831]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-06.55.55:826][831]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-06.55.55:826][831]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-06.55.56:100][831]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.08.22-06.55.56:164][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-06.55.56:164][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-06.55.56:164][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-06.55.56:259][831]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-06.55.56:261][831]LogInit: FAudioDevice initialized.
+[2020.08.22-06.55.56:822][831]LogLoad: Game class is 'Clase_GameMode_C'
+[2020.08.22-06.55.57:290][831]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.22-02.55.57
+[2020.08.22-06.55.57:362][831]LogWorld: Bringing up level for play took: 0.230130
+[2020.08.22-06.55.57:450][831]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.08.22-06.55.58:359][831]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.1830 seconds. Added 20 classes and 0 folders.
+[2020.08.22-06.55.58:680][831]PIE: Server logged in
+[2020.08.22-06.56.01:067][831]PIE: Play in editor total start time 8,64 seconds.
+[2020.08.22-06.56.08:639][866]LogNet: Browse: /Game/ThirdPersonBP/Maps/Map2
+[2020.08.22-06.56.08:658][866]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Map2
+[2020.08.22-06.56.08:658][866]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-06.56.08:781][866]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-06.56.08:799][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-06.56.09:219][866]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F548A5940), frame # 33866
+[2020.08.22-06.56.09:222][866]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F539E1800), frame # 33866
+[2020.08.22-06.56.10:631][866]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.08.22-06.56.11:011][866]LogAIModule: Creating AISystem for world Map2
+[2020.08.22-06.56.11:011][866]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017EBC3B8800), frame # 33866
+[2020.08.22-06.56.11:011][866]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F64BAD300), frame # 33866
+[2020.08.22-06.56.11:012][866]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.22-06.56.11:153][866]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2020.08.22-02.56.11
+[2020.08.22-06.56.11:155][866]LogWorld: Bringing up level for play took: 0.142670
+[2020.08.22-06.56.11:210][866]LogLoad: Took 2.520128 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Map2)
+[2020.08.22-06.56.13:925][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-06.56.13:926][946]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Map2
+[2020.08.22-06.56.13:926][946]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-06.56.13:927][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-06.56.14:070][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-06.56.14:153][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-06.56.14:852][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-06.56.14:905][946]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F64BAD300), frame # 33946
+[2020.08.22-06.56.14:905][946]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017EBC3B8800), frame # 33946
+[2020.08.22-06.56.15:181][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.08.22-06.56.15:261][947]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.08.22-06.56.16:879][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.08.22-06.56.17:155][ 11]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap896EDDF24629B7A8CC8DA69DF2DBD740.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.22-06.56.18:230][ 11]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap_BuiltData7DF1685B46AE593921F3EBB2F9252D38.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.22-06.56.18:504][ 11]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-06.56.18:504][ 11]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.22-06.56.18:504][ 11]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.22-06.59.53:253][123]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-06.59.53:826][123]LogUObjectHash: Compacting FUObjectHashTables data took  10.78ms
+[2020.08.22-06.59.55:575][157]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter18ECC1E604BBDC5C10861B7A591FFA525.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-06.59.55:693][157]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-06.59.55:693][157]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.00.54:976][398]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.00.55:219][398]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.08.22-07.00.56:475][429]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter177A52CC348470C09D07FABAB4EED7DC7.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-07.00.56:502][429]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-07.00.56:502][429]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.03.31:368][242]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.03.31:475][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.08.22-07.03.32:548][273]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter16618B4B847444B29CC69F497AA5CCDFB.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-07.03.32:572][273]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-07.03.32:572][273]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.03.35:548][414]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-07.03.35:648][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-07.03.35:743][414]PIE: New page: PIE session: ThirdPersonExampleMap (21-08-2020 23:03:35)
+[2020.08.22-07.03.35:751][414]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.03.35:932][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180453s)
+[2020.08.22-07.03.35:984][414]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.22-07.03.35:984][414]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F72061800), frame # 44414
+[2020.08.22-07.03.35:984][414]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F6245A840), frame # 44414
+[2020.08.22-07.03.36:004][414]LogPlayLevel: PIE: World Init took: (0.071525s)
+[2020.08.22-07.03.36:004][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.252491s)
+[2020.08.22-07.03.36:061][414]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2020.08.22-07.03.36:099][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-07.03.36:100][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-07.03.36:100][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-07.03.36:100][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-07.03.36:100][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-07.03.36:100][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-07.03.36:111][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-07.03.36:111][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-07.03.36:111][414]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-07.03.36:111][414]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-07.03.36:158][414]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-07.03.36:158][414]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-07.03.36:235][414]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.08.22-07.03.36:235][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-07.03.36:235][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-07.03.36:235][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-07.03.36:402][414]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-07.03.36:405][414]LogInit: FAudioDevice initialized.
+[2020.08.22-07.03.36:458][414]LogLoad: Game class is 'Clase_GameMode_C'
+[2020.08.22-07.03.36:473][414]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.22-03.03.36
+[2020.08.22-07.03.36:473][414]LogWorld: Bringing up level for play took: 0.001378
+[2020.08.22-07.03.36:499][414]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.08.22-07.03.36:542][414]PIE: Server logged in
+[2020.08.22-07.03.36:543][414]PIE: Play in editor total start time 0,959 seconds.
+[2020.08.22-07.03.38:301][482]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.38:329][482]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego1
+[2020.08.22-07.03.40:992][600]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.40:992][600]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego2
+[2020.08.22-07.03.43:668][736]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.43:669][736]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego3
+[2020.08.22-07.03.46:129][864]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.46:129][864]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego4
+[2020.08.22-07.03.47:126][909]LogCharacterMovement: Clase_ThirdPersonCharacter1_C_0 is stuck and failed to move! Velocity: X=-72.27 Y=4.93 Z=0.00 Location: X=47.52 Y=42.33 Z=152.01 Normal: X=-0.00 Y=-1.00 Z=0.00 PenetrationDepth:14.325 Actor:Ramp_StaticMesh Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.08.22-07.03.48:955][  0]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.48:955][  0]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego5
+[2020.08.22-07.03.49:939][ 51]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.49:939][ 51]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego6
+[2020.08.22-07.03.51:955][156]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.51:956][156]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego7
+[2020.08.22-07.03.54:868][308]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.54:868][308]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego8
+[2020.08.22-07.03.55:695][349]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.55:695][349]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego9
+[2020.08.22-07.03.56:270][378]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.56:270][378]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego10
+[2020.08.22-07.03.58:211][469]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.58:211][469]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego11
+[2020.08.22-07.03.59:100][515]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.03.59:100][515]LogBlueprintUserMessages: [Clase_GameInstance_C_1] Total de muertes en esta sesión de juego12
+[2020.08.22-07.03.59:987][559]LogCharacterMovement: Clase_ThirdPersonCharacter1_C_0 is stuck and failed to move! Velocity: X=-140.21 Y=70.50 Z=0.00 Location: X=38.84 Y=42.30 Z=176.59 Normal: X=-0.00 Y=-1.00 Z=0.00 PenetrationDepth:14.300 Actor:Ramp_StaticMesh Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.08.22-07.04.02:693][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.04.02:693][693]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.04.02:693][693]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.04.02:694][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.04.02:738][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-07.04.02:742][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.04.02:795][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.04.02:796][693]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F6245A840), frame # 45693
+[2020.08.22-07.04.02:796][693]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F72061800), frame # 45693
+[2020.08.22-07.04.02:815][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.08.22-07.04.02:874][694]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.08.22-07.04.18:461][509]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.04.18:654][509]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2020.08.22-07.04.19:505][534]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter1A5A4DE644DD443323A55A28364246AB2.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-07.04.19:528][534]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-07.04.19:528][534]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.04.28:660][981]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-07.04.28:676][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-07.04.28:676][981]PIE: New page: PIE session: ThirdPersonExampleMap (21-08-2020 23:04:28)
+[2020.08.22-07.04.28:676][981]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.04.28:699][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022711s)
+[2020.08.22-07.04.28:701][981]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.22-07.04.28:701][981]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017EB64CDC00), frame # 46981
+[2020.08.22-07.04.28:701][981]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F54D17880), frame # 46981
+[2020.08.22-07.04.28:702][981]LogPlayLevel: PIE: World Init took: (0.002616s)
+[2020.08.22-07.04.28:702][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025508s)
+[2020.08.22-07.04.28:748][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.08.22-07.04.28:750][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-07.04.28:750][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-07.04.28:750][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-07.04.28:750][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-07.04.28:750][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-07.04.28:750][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-07.04.28:750][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-07.04.28:750][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-07.04.28:751][981]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-07.04.28:751][981]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-07.04.28:765][981]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-07.04.28:765][981]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-07.04.28:926][981]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.08.22-07.04.28:927][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-07.04.28:927][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-07.04.28:927][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-07.04.28:929][981]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-07.04.28:955][981]LogInit: FAudioDevice initialized.
+[2020.08.22-07.04.28:967][981]LogLoad: Game class is 'Clase_GameMode_C'
+[2020.08.22-07.04.28:969][981]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.22-03.04.28
+[2020.08.22-07.04.28:970][981]LogWorld: Bringing up level for play took: 0.002060
+[2020.08.22-07.04.28:970][981]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.08.22-07.04.28:974][981]PIE: Server logged in
+[2020.08.22-07.04.28:975][981]PIE: Play in editor total start time 0,301 seconds.
+[2020.08.22-07.04.30:524][ 55]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.30:525][ 55]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego1
+[2020.08.22-07.04.32:708][167]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.32:708][167]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego2
+[2020.08.22-07.04.34:241][245]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.34:242][245]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego3
+[2020.08.22-07.04.35:460][309]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.35:461][309]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego4
+[2020.08.22-07.04.44:264][748]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.44:264][748]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego5
+[2020.08.22-07.04.45:475][811]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.45:476][811]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego6
+[2020.08.22-07.04.45:797][828]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.45:797][828]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego7
+[2020.08.22-07.04.46:013][839]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.46:013][839]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego8
+[2020.08.22-07.04.46:013][839]LogCharacterMovement: Clase_ThirdPersonCharacter1_C_0 is stuck and failed to move! Velocity: X=-599.47 Y=25.29 Z=0.00 Location: X=50.00 Y=39.96 Z=200.00 Normal: X=-0.00 Y=-1.00 Z=0.00 PenetrationDepth:11.963 Actor:Ramp_StaticMesh Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.08.22-07.04.46:230][850]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.46:230][850]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego9
+[2020.08.22-07.04.46:520][865]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.46:521][865]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego10
+[2020.08.22-07.04.46:767][878]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.46:767][878]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego11
+[2020.08.22-07.04.47:017][890]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.47:018][890]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego12
+[2020.08.22-07.04.47:319][905]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.47:322][905]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego13
+[2020.08.22-07.04.47:501][914]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.47:501][914]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego14
+[2020.08.22-07.04.47:713][925]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.47:713][925]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego15
+[2020.08.22-07.04.47:928][936]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.47:928][936]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego16
+[2020.08.22-07.04.48:138][947]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.48:138][947]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego17
+[2020.08.22-07.04.48:371][958]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.48:372][958]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego18
+[2020.08.22-07.04.48:729][976]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.48:729][976]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego19
+[2020.08.22-07.04.48:991][989]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.48:992][989]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego20
+[2020.08.22-07.04.49:237][  1]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.49:238][  1]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego21
+[2020.08.22-07.04.49:559][ 18]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.49:559][ 18]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego22
+[2020.08.22-07.04.49:922][ 37]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.49:923][ 37]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego23
+[2020.08.22-07.04.50:235][ 52]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.50:235][ 52]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego24
+[2020.08.22-07.04.50:481][ 64]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.50:482][ 64]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego25
+[2020.08.22-07.04.50:840][ 82]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.50:840][ 82]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego26
+[2020.08.22-07.04.51:080][ 95]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.51:080][ 95]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego27
+[2020.08.22-07.04.51:379][110]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.51:379][110]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego28
+[2020.08.22-07.04.51:675][125]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.51:675][125]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego29
+[2020.08.22-07.04.52:008][142]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.52:008][142]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego30
+[2020.08.22-07.04.52:265][155]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.52:265][155]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego31
+[2020.08.22-07.04.52:523][168]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.52:524][168]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego32
+[2020.08.22-07.04.52:812][182]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.52:813][182]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego33
+[2020.08.22-07.04.53:100][197]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.53:100][197]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego34
+[2020.08.22-07.04.56:625][380]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.56:626][380]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego35
+[2020.08.22-07.04.56:966][398]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.56:966][398]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego36
+[2020.08.22-07.04.57:099][405]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.57:099][405]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego37
+[2020.08.22-07.04.57:237][412]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.57:238][412]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego38
+[2020.08.22-07.04.57:467][424]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.57:467][424]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego39
+[2020.08.22-07.04.57:663][434]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.57:664][434]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego40
+[2020.08.22-07.04.57:838][442]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.57:838][442]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego41
+[2020.08.22-07.04.58:006][451]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.58:007][451]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego42
+[2020.08.22-07.04.58:199][460]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.58:199][460]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego43
+[2020.08.22-07.04.58:468][474]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.58:469][474]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego44
+[2020.08.22-07.04.58:687][485]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.58:687][485]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego45
+[2020.08.22-07.04.58:936][496]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.58:937][496]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego46
+[2020.08.22-07.04.59:183][508]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.59:184][508]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego47
+[2020.08.22-07.04.59:459][520]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.59:459][520]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego48
+[2020.08.22-07.04.59:704][532]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.59:704][532]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego49
+[2020.08.22-07.04.59:898][541]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.04.59:898][541]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego50
+[2020.08.22-07.05.00:064][550]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.00:065][550]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego51
+[2020.08.22-07.05.00:336][564]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.00:336][564]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego52
+[2020.08.22-07.05.00:572][576]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.00:572][576]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego53
+[2020.08.22-07.05.00:803][588]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.00:804][588]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego54
+[2020.08.22-07.05.01:041][600]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.01:041][600]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego55
+[2020.08.22-07.05.01:135][605]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.01:136][605]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego56
+[2020.08.22-07.05.01:322][615]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.01:323][615]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego57
+[2020.08.22-07.05.01:542][626]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.01:542][626]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego58
+[2020.08.22-07.05.01:775][638]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.01:775][638]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego59
+[2020.08.22-07.05.01:988][649]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.01:990][649]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego60
+[2020.08.22-07.05.02:243][662]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.02:243][662]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego61
+[2020.08.22-07.05.02:497][675]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.02:497][675]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego62
+[2020.08.22-07.05.02:680][685]LogBlueprintUserMessages: [Clase_ThirdPersonCharacter1_C_0] Teleport
+[2020.08.22-07.05.02:681][685]LogBlueprintUserMessages: [Clase_GameInstance_C_2] Total de muertes en esta sesión de juego63
+[2020.08.22-07.05.03:964][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.05.03:964][749]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.05.03:964][749]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.05.03:965][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.05.03:977][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-07.05.03:987][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.05.04:404][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.05.04:405][749]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F54D17880), frame # 48749
+[2020.08.22-07.05.04:405][749]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017EB64CDC00), frame # 48749
+[2020.08.22-07.05.04:408][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.08.22-07.05.04:506][750]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.08.22-07.07.19:379][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.08.22-07.07.19:381][401]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.058
+[2020.08.22-07.07.19:392][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Manager/Clase_GameMode] ([1] browsable assets)...
+[2020.08.22-07.07.19:392][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Manager/Clase_GameMode]
+[2020.08.22-07.07.19:532][401]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_GameMode_Auto2A6A89F10465840CEB75EE6B7D80D3014.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Autosaves/Game/ThirdPersonBP/Manager/Clase_GameMode_Auto2.uasset'
+[2020.08.22-07.07.19:538][401]LogFileHelpers: Auto-saving content packages took 0.158
+[2020.08.22-07.16.11:977][498]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.16.12:104][498]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.08.22-07.16.56:517][417]LogSlate: Took 0.067991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.22-07.17.54:687][503]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.08.22-07.17.54:692][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.057
+[2020.08.22-07.17.54:692][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1] ([1] browsable assets)...
+[2020.08.22-07.17.54:706][503]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1]
+[2020.08.22-07.17.54:706][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1]
+[2020.08.22-07.17.55:014][503]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter1_Auto54CB135045CAF24316611299BE1F004D.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Autosaves/Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1_Auto3.uasset'
+[2020.08.22-07.17.55:090][503]LogFileHelpers: Auto-saving content packages took 0.399
+[2020.08.22-07.18.20:861][ 40]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.22-07.19.08:549][393]LogMetaData: Removing '/Game/ThirdPersonBP/PlayerCharacter/Model/PlayerStates.PlayerStates' ref from Metadata '/Game/ThirdPersonBP/PlayerCharacter/Model/PlayerState.PackageMetaData'
+[2020.08.22-07.19.08:729][393]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/PlayerStates2C34007F4CA90AD23C79BFB35E1AE0A0.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/PlayerStates.uasset'
+[2020.08.22-07.19.09:513][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.08.22-07.19.09:808][393]LogUObjectHash: Compacting FUObjectHashTables data took  11.07ms
+[2020.08.22-07.19.09:864][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.08.22-07.19.11:478][393]AssetCheck: New page: Asset Save: PlayerStates
+[2020.08.22-07.19.11:478][393]LogContentValidation: Display: Validating UserDefinedEnum /Game/ThirdPersonBP/PlayerCharacter/Model/PlayerStates.PlayerStates
+[2020.08.22-07.19.12:641][427]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/ThirdPersonBP/PlayerCharacter/Model/PlayerStates.PlayerStates
+[2020.08.22-07.19.58:379][250]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/PlayerStatesD6E56D2A4D830C7EED359C88CE1DE98B.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/PlayerStates.uasset'
+[2020.08.22-07.19.58:409][250]AssetCheck: New page: Asset Save: PlayerStates
+[2020.08.22-07.19.58:410][250]LogContentValidation: Display: Validating UserDefinedEnum /Game/ThirdPersonBP/PlayerCharacter/Model/PlayerStates.PlayerStates
+[2020.08.22-07.21.58:356][754]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.21.58:522][754]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2020.08.22-07.21.59:802][773]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter196C1ED25415E2203012DC5A51A071937.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-07.21.59:848][773]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-07.21.59:848][773]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.22.19:832][953]BlueprintLog: New page: Compile Clase_GameMode
+[2020.08.22-07.22.20:015][953]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2020.08.22-07.22.21:221][993]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_GameModeBED063B74599A816D9C5AD820233987F.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Manager/Clase_GameMode.uasset'
+[2020.08.22-07.22.21:246][993]AssetCheck: New page: Asset Save: Clase_GameMode
+[2020.08.22-07.22.21:246][993]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Manager/Clase_GameMode.Clase_GameMode
+[2020.08.22-07.22.23:733][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-07.22.23:769][ 85]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.22-07.22.23:918][ 85]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2020.08.22-07.22.24:206][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2020.08.22-07.22.24:208][ 85]LogPlayLevel: PlayLevel: Blueprint regeneration took 439 ms (1 blueprints)
+[2020.08.22-07.22.24:215][ 85]PIE: New page: PIE session: ThirdPersonExampleMap (21-08-2020 23:22:24)
+[2020.08.22-07.22.24:215][ 85]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.22.24:310][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095088s)
+[2020.08.22-07.22.24:375][ 85]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.22-07.22.24:375][ 85]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F53C7DA00), frame # 67085
+[2020.08.22-07.22.24:375][ 85]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F5BF387C0), frame # 67085
+[2020.08.22-07.22.24:375][ 85]LogPlayLevel: PIE: World Init took: (0.065532s)
+[2020.08.22-07.22.24:375][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.160875s)
+[2020.08.22-07.22.24:414][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.08.22-07.22.24:448][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-07.22.24:448][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-07.22.24:448][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-07.22.24:448][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-07.22.24:448][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-07.22.24:448][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-07.22.24:448][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-07.22.24:448][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-07.22.24:449][ 85]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-07.22.24:450][ 85]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-07.22.24:476][ 85]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-07.22.24:476][ 85]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-07.22.24:621][ 85]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.08.22-07.22.24:622][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-07.22.24:622][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-07.22.24:622][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-07.22.24:623][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-07.22.24:639][ 85]LogInit: FAudioDevice initialized.
+[2020.08.22-07.22.24:699][ 85]LogLoad: Game class is 'Clase_GameMode_C'
+[2020.08.22-07.22.24:723][ 85]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.22-03.22.24
+[2020.08.22-07.22.24:724][ 85]LogWorld: Bringing up level for play took: 0.010328
+[2020.08.22-07.22.24:742][ 85]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.08.22-07.22.24:771][ 85]PIE: Server logged in
+[2020.08.22-07.22.24:773][ 85]PIE: Play in editor total start time 1,012 seconds.
+[2020.08.22-07.22.42:880][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.22.42:880][789]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.22.42:881][789]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.22.42:892][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.22.42:903][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-07.22.42:912][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.22.42:961][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.22.43:038][789]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F5BF387C0), frame # 67789
+[2020.08.22-07.22.43:038][789]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F53C7DA00), frame # 67789
+[2020.08.22-07.22.43:058][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.08.22-07.22.43:098][790]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.08.22-07.22.45:595][835]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.08.22-07.22.45:678][835]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMapC2E739F54296075E7FCAA6973A042B19.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.22-07.22.45:929][835]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap_BuiltData7DCB504746FAC5F0C778D4BC4CF361D4.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.22-07.22.45:977][835]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-07.22.45:978][835]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.22-07.22.45:978][835]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.22-07.27.39:552][947]LogRenderer: Reallocating scene render targets to support 908x536 Format 10 NumSamples 1 (Frame:1).
+[2020.08.22-07.29.09:611][529]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.29.10:009][529]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.08.22-07.29.10:992][552]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter12114264F40645088FF6DE2BEDF8E9108.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-07.29.11:014][552]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-07.29.11:014][552]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.30.00:637][787]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.30.00:804][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.08.22-07.30.02:202][817]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter1AEA26C4543CD663A34C88BB6298AB270.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-07.30.02:229][817]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-07.30.02:229][817]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.30.35:478][128]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-07.30.35:514][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-07.30.35:514][128]PIE: New page: PIE session: ThirdPersonExampleMap (21-08-2020 23:30:35)
+[2020.08.22-07.30.35:515][128]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.30.35:542][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027431s)
+[2020.08.22-07.30.35:544][128]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.22-07.30.35:544][128]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F7DDB6E00), frame # 72128
+[2020.08.22-07.30.35:544][128]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F5D280A40), frame # 72128
+[2020.08.22-07.30.35:545][128]LogPlayLevel: PIE: World Init took: (0.003156s)
+[2020.08.22-07.30.35:545][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030895s)
+[2020.08.22-07.30.35:715][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.08.22-07.30.35:732][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-07.30.35:732][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-07.30.35:732][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-07.30.35:732][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-07.30.35:732][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-07.30.35:732][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-07.30.35:732][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-07.30.35:732][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-07.30.35:733][128]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-07.30.35:733][128]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-07.30.35:744][128]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-07.30.35:744][128]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-07.30.35:807][128]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.08.22-07.30.35:808][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-07.30.35:808][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-07.30.35:808][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-07.30.35:812][128]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-07.30.35:832][128]LogInit: FAudioDevice initialized.
+[2020.08.22-07.30.35:865][128]LogLoad: Game class is 'Clase_GameMode_C'
+[2020.08.22-07.30.35:867][128]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.22-03.30.35
+[2020.08.22-07.30.35:868][128]LogWorld: Bringing up level for play took: 0.001675
+[2020.08.22-07.30.35:868][128]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.08.22-07.30.35:872][128]PIE: Server logged in
+[2020.08.22-07.30.35:873][128]PIE: Play in editor total start time 0,361 seconds.
+[2020.08.22-07.31.54:454][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.31.54:455][233]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.31.54:455][233]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.31.54:456][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.31.54:490][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-07.31.54:496][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.31.54:571][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.31.54:572][233]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F5D280A40), frame # 75233
+[2020.08.22-07.31.54:572][233]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F7DDB6E00), frame # 75233
+[2020.08.22-07.31.54:576][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.08.22-07.31.54:644][234]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.08.22-07.31.56:291][293]LogUObjectHash: Compacting FUObjectHashTables data took   8.52ms
+[2020.08.22-07.31.56:372][293]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap7EC57C3946B88987B61594BB24EA2845.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.22-07.31.56:597][293]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap_BuiltDataEBD8AADA4498333F2C2F459234F0F441.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.22-07.31.56:623][293]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-07.31.56:623][293]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.22-07.31.56:623][293]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.22-07.35.28:548][649]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.35.28:722][649]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2020.08.22-07.35.32:312][776]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter19FB19FF24331ABE41B11A5A967421311.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-07.35.32:342][776]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-07.35.32:342][776]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.36.28:708][737]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.36.28:833][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.08.22-07.36.30:379][773]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter1960CEB564BDDAF9B2B3146A4FB7E1EA7.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-07.36.30:407][773]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-07.36.30:407][773]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.36.59:273][135]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-07.36.59:306][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-07.36.59:307][135]PIE: New page: PIE session: ThirdPersonExampleMap (21-08-2020 23:36:59)
+[2020.08.22-07.36.59:307][135]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.36.59:437][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129918s)
+[2020.08.22-07.36.59:478][135]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.22-07.36.59:478][135]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F5813D800), frame # 80135
+[2020.08.22-07.36.59:478][135]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F5D1639C0), frame # 80135
+[2020.08.22-07.36.59:478][135]LogPlayLevel: PIE: World Init took: (0.041318s)
+[2020.08.22-07.36.59:478][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.171533s)
+[2020.08.22-07.36.59:549][135]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.08.22-07.36.59:557][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-07.36.59:557][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-07.36.59:557][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-07.36.59:557][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-07.36.59:557][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-07.36.59:557][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-07.36.59:557][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-07.36.59:557][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-07.36.59:559][135]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-07.36.59:559][135]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-07.36.59:587][135]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-07.36.59:587][135]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-07.36.59:657][135]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.08.22-07.36.59:658][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-07.36.59:658][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-07.36.59:658][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-07.36.59:659][135]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-07.36.59:690][135]LogInit: FAudioDevice initialized.
+[2020.08.22-07.36.59:719][135]LogLoad: Game class is 'Clase_GameMode_C'
+[2020.08.22-07.36.59:724][135]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.22-03.36.59
+[2020.08.22-07.36.59:724][135]LogWorld: Bringing up level for play took: 0.002313
+[2020.08.22-07.36.59:724][135]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.08.22-07.36.59:739][135]PIE: Server logged in
+[2020.08.22-07.36.59:755][135]PIE: Play in editor total start time 0,451 seconds.
+[2020.08.22-07.37.23:248][ 57]LogNet: Browse: /Game/ThirdPersonBP/Maps/Map2
+[2020.08.22-07.37.23:276][ 57]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Map2
+[2020.08.22-07.37.23:276][ 57]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.37.23:307][ 57]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.37.23:307][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.37.23:352][ 57]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F5D1639C0), frame # 81057
+[2020.08.22-07.37.23:353][ 57]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F5813D800), frame # 81057
+[2020.08.22-07.37.23:358][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.08.22-07.37.23:724][ 57]LogAIModule: Creating AISystem for world Map2
+[2020.08.22-07.37.23:724][ 57]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F5C675000), frame # 81057
+[2020.08.22-07.37.23:724][ 57]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F5BF88CC0), frame # 81057
+[2020.08.22-07.37.23:725][ 57]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.22-07.37.23:776][ 57]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2020.08.22-03.37.23
+[2020.08.22-07.37.23:776][ 57]LogWorld: Bringing up level for play took: 0.051241
+[2020.08.22-07.37.23:778][ 57]LogLoad: Took 0.502823 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Map2)
+[2020.08.22-07.37.32:463][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.37.32:464][392]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Map2
+[2020.08.22-07.37.32:464][392]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.37.32:465][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.37.32:593][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-07.37.32:599][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.37.32:804][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.37.32:807][392]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F5BF88CC0), frame # 81392
+[2020.08.22-07.37.32:807][392]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F5C675000), frame # 81392
+[2020.08.22-07.37.32:812][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.08.22-07.37.32:878][393]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.08.22-07.37.43:535][745]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.08.22-07.37.43:603][745]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap356FD6544FFF3907CA923F81C2C238F7.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.22-07.37.43:774][745]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap_BuiltDataC1593E0F4D3B2BA372B08A87881C6AAF.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.22-07.37.43:811][745]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-07.37.43:811][745]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.22-07.37.43:811][745]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.22-07.38.36:573][970]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.38.36:694][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.08.22-07.38.38:006][  6]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter1CD665C7F4327878FC026DE9C46AA2322.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-07.38.38:031][  6]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-07.38.38:031][  6]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.41.20:578][857]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-07.41.20:849][857]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.08.22-07.41.21:866][876]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter16425FC9F4E08FAEBEDE31CBAADBDC629.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-07.41.21:901][876]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-07.41.21:901][876]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-07.41.24:203][980]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/PlayerStates746BC2C64EB96F0FD531FBA9F9B68B51.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/PlayerStates.uasset'
+[2020.08.22-07.41.24:233][980]AssetCheck: New page: Asset Save: PlayerStates
+[2020.08.22-07.41.24:233][980]LogContentValidation: Display: Validating UserDefinedEnum /Game/ThirdPersonBP/PlayerCharacter/Model/PlayerStates.PlayerStates
+[2020.08.22-07.41.27:763][106]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.41.27:763][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.41.33:502][191]BlueprintLog: New page: Compile Clase_GameMode
+[2020.08.22-07.41.33:849][191]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.08.22-07.41.35:059][226]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_GameMode014E53024D5937E252A789A574EA4ECE.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Manager/Clase_GameMode.uasset'
+[2020.08.22-07.41.35:133][226]AssetCheck: New page: Asset Save: Clase_GameMode
+[2020.08.22-07.41.35:133][226]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Manager/Clase_GameMode.Clase_GameMode
+[2020.08.22-07.42.32:932][ 57]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.22-07.42.34:921][ 57]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.22-07.42.48:260][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.08.22-07.42.48:298][425]LogMetaData: Removing '/Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/PlayerCharacter/Model/NewBlueprint.PackageMetaData'
+[2020.08.22-07.42.48:298][425]LogMetaData: Removing '/Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.SKEL_ObjectTo_C' ref from Metadata '/Game/ThirdPersonBP/PlayerCharacter/Model/NewBlueprint.PackageMetaData'
+[2020.08.22-07.42.48:298][425]LogMetaData: Removing '/Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo_C' ref from Metadata '/Game/ThirdPersonBP/PlayerCharacter/Model/NewBlueprint.PackageMetaData'
+[2020.08.22-07.42.48:298][425]LogMetaData: Removing '/Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/PlayerCharacter/Model/NewBlueprint.PackageMetaData'
+[2020.08.22-07.42.48:298][425]LogMetaData: Removing '/Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/PlayerCharacter/Model/NewBlueprint.PackageMetaData'
+[2020.08.22-07.42.48:298][425]LogMetaData: Removing '/Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/PlayerCharacter/Model/NewBlueprint.PackageMetaData'
+[2020.08.22-07.42.48:449][425]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ObjectTo0B68C7E644BF02B42F1CCF9BBC45D17C.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.uasset'
+[2020.08.22-07.42.48:829][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.08.22-07.42.48:880][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.08.22-07.42.48:925][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.08.22-07.42.49:134][425]AssetCheck: New page: Asset Save: ObjectTo
+[2020.08.22-07.42.49:134][425]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo
+[2020.08.22-07.43.09:539][810]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo
+[2020.08.22-07.44.46:447][314]LogHttp: Warning: 0000017F73B60100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B90D34B33-4970-CE2D-87B7-95985484A396%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=8621ce864d2b74de80cc9ab7d103bcf8%7Caf1ac89e568043b1a7425cf0784c520b%7C41909284-70f0-480f-b9ce-eae8c0c39d13&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.22-07.44.46:458][314]LogHttp: Warning: 0000017F73B60100: request failed, libcurl error: 0 (No error)
+[2020.08.22-07.44.46:459][314]LogHttp: Warning: 0000017F73B60100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x17eee453f70 [can pipeline])
+[2020.08.22-07.44.46:459][314]LogHttp: Warning: 0000017F73B60100: libcurl info message cache 1 (Re-using existing connection! (#43) with host datarouter.ol.epicgames.com)
+[2020.08.22-07.44.46:459][314]LogHttp: Warning: 0000017F73B60100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.215.82.106) port 443 (#43))
+[2020.08.22-07.44.46:460][314]LogHttp: Warning: 0000017F73B60100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.08.22-07.44.46:460][314]LogHttp: Warning: 0000017F73B60100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.08.22-07.44.46:460][314]LogHttp: Warning: 0000017F73B60100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.08.22-07.44.46:460][314]LogHttp: Warning: 0000017F73B60100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.08.22-07.44.46:460][314]LogHttp: Warning: 0000017F73B60100: libcurl info message cache 7 (Closing connection 43)
+[2020.08.22-07.44.46:460][314]LogHttp: Warning: 0000017F73B60100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.08.22-07.44.46:474][314]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B90D34B33-4970-CE2D-87B7-95985484A396%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=8621ce864d2b74de80cc9ab7d103bcf8%7Caf1ac89e568043b1a7425cf0784c520b%7C41909284-70f0-480f-b9ce-eae8c0c39d13&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.08.22-07.44.50:969][451]BlueprintLog: New page: Compile ObjectTo
+[2020.08.22-07.44.51:192][451]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2020.08.22-07.44.52:021][476]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ObjectToC251BA5D49385BB8D1D9978991842582.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.uasset'
+[2020.08.22-07.44.52:055][476]AssetCheck: New page: Asset Save: ObjectTo
+[2020.08.22-07.44.52:055][476]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo
+[2020.08.22-07.46.49:727][749]LogEditorTransaction: Undo Modify Component(s)
+[2020.08.22-07.47.02:018][126]LogEditorTransaction: Undo Modify Component(s)
+[2020.08.22-07.47.12:627][407]LogEditorTransaction: Undo Modify Component Scale
+[2020.08.22-07.47.14:503][465]LogEditorTransaction: Undo Replace component used material
+[2020.08.22-07.47.15:200][489]LogEditorTransaction: Undo Replace component used material
+[2020.08.22-07.47.15:656][506]LogEditorTransaction: Undo Replace component used material
+[2020.08.22-07.47.16:067][522]LogEditorTransaction: Undo Edit Static Mesh
+[2020.08.22-07.47.32:015][ 26]LogEditorTransaction: Undo Edit Static Mesh
+[2020.08.22-07.48.30:057][300]LogEditorTransaction: Undo Edit Static Mesh
+[2020.08.22-07.48.54:470][ 87]LogEditorTransaction: Undo Edit Static Mesh
+[2020.08.22-07.49.24:812][999]LogEditorTransaction: Undo Modify Component(s)
+[2020.08.22-07.49.29:170][132]LogEditorTransaction: Undo Modify Component(s)
+[2020.08.22-07.49.30:082][156]LogEditorTransaction: Undo Edit Static Mesh
+[2020.08.22-07.49.48:116][694]BlueprintLog: New page: Compile ObjectTo
+[2020.08.22-07.49.49:951][694]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2020.08.22-07.49.50:692][711]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ObjectTo76EC04984A16D7B87270CA978B1F6840.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.uasset'
+[2020.08.22-07.49.50:732][711]AssetCheck: New page: Asset Save: ObjectTo
+[2020.08.22-07.49.50:733][711]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo
+[2020.08.22-07.50.09:321][251]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-07.50.09:379][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-07.50.09:396][251]PIE: New page: PIE session: ThirdPersonExampleMap (21-08-2020 23:50:09)
+[2020.08.22-07.50.09:396][251]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.50.09:429][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033310s)
+[2020.08.22-07.50.09:431][251]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.22-07.50.09:439][251]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017FA9F32800), frame # 100251
+[2020.08.22-07.50.09:439][251]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F634F6AC0), frame # 100251
+[2020.08.22-07.50.09:439][251]LogPlayLevel: PIE: World Init took: (0.010166s)
+[2020.08.22-07.50.09:439][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043901s)
+[2020.08.22-07.50.10:419][251]LogUObjectHash: Compacting FUObjectHashTables data took  34.74ms
+[2020.08.22-07.50.10:457][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-07.50.10:458][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-07.50.10:459][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-07.50.10:460][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-07.50.10:460][251]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-07.50.10:460][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-07.50.10:460][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-07.50.10:460][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-07.50.10:473][251]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-07.50.10:473][251]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-07.50.10:518][251]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-07.50.10:518][251]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-07.50.10:584][251]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.08.22-07.50.10:585][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-07.50.10:585][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-07.50.10:585][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-07.50.10:586][251]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-07.50.10:692][251]LogInit: FAudioDevice initialized.
+[2020.08.22-07.50.10:788][251]LogLoad: Game class is 'Clase_GameMode_C'
+[2020.08.22-07.50.10:806][251]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.22-03.50.10
+[2020.08.22-07.50.10:807][251]LogWorld: Bringing up level for play took: 0.003164
+[2020.08.22-07.50.10:818][251]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.08.22-07.50.11:005][251]PIE: Server logged in
+[2020.08.22-07.50.11:006][251]PIE: Play in editor total start time 1,656 seconds.
+[2020.08.22-07.50.17:160][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.50.17:160][442]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.50.17:160][442]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.50.17:161][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.50.17:199][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-07.50.17:220][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.50.17:288][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.50.17:358][442]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F634F6AC0), frame # 100442
+[2020.08.22-07.50.17:358][442]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017FA9F32800), frame # 100442
+[2020.08.22-07.50.17:362][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.08.22-07.50.17:482][443]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.08.22-07.50.23:825][647]LogEditorViewport: Clicking on Actor (LMB): ObjectTo_C (ObjectTo)
+[2020.08.22-07.50.33:227][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.08.22-07.50.33:313][931]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap7148BB2A40EC43A55F4204A1474CF935.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.22-07.50.33:516][931]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap_BuiltData5564D6C54F2B003026D98C8171A86287.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.22-07.50.33:570][931]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-07.50.33:570][931]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.22-07.50.33:570][931]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.22-07.50.34:764][962]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-07.50.34:794][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-07.50.34:794][962]PIE: New page: PIE session: ThirdPersonExampleMap (21-08-2020 23:50:34)
+[2020.08.22-07.50.34:794][962]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.50.34:832][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036973s)
+[2020.08.22-07.50.34:833][962]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.22-07.50.34:834][962]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017FAAA94400), frame # 100962
+[2020.08.22-07.50.34:850][962]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F632F8E00), frame # 100962
+[2020.08.22-07.50.34:851][962]LogPlayLevel: PIE: World Init took: (0.019114s)
+[2020.08.22-07.50.34:851][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056566s)
+[2020.08.22-07.50.34:927][962]LogUObjectHash: Compacting FUObjectHashTables data took   9.61ms
+[2020.08.22-07.50.34:930][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-07.50.34:931][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-07.50.34:931][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-07.50.34:931][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-07.50.34:931][962]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-07.50.34:931][962]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-07.50.34:931][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-07.50.34:931][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-07.50.34:932][962]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-07.50.34:932][962]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-07.50.34:955][962]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-07.50.34:955][962]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-07.50.35:038][962]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.08.22-07.50.35:060][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-07.50.35:060][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-07.50.35:060][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-07.50.35:062][962]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-07.50.35:164][962]LogInit: FAudioDevice initialized.
+[2020.08.22-07.50.35:176][962]LogLoad: Game class is 'Clase_GameMode_C'
+[2020.08.22-07.50.35:177][962]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.22-03.50.35
+[2020.08.22-07.50.35:177][962]LogWorld: Bringing up level for play took: 0.001006
+[2020.08.22-07.50.35:178][962]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.08.22-07.50.35:183][962]PIE: Server logged in
+[2020.08.22-07.50.35:187][962]PIE: Play in editor total start time 0,395 seconds.
+[2020.08.22-07.50.37:266][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.50.37:266][ 20]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.50.37:267][ 20]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.50.37:267][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.50.37:295][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-07.50.37:312][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.50.37:396][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.50.37:396][ 20]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F632F8E00), frame # 101020
+[2020.08.22-07.50.37:396][ 20]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017FAAA94400), frame # 101020
+[2020.08.22-07.50.37:400][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.08.22-07.50.37:456][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.08.22-07.50.38:999][ 66]LogEditorViewport: Clicking on Actor (LMB): ObjectTo_C (ObjectTo)
+[2020.08.22-07.51.02:504][747]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.08.22-07.51.05:769][747]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.22-07.51.13:554][747]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.51.13:554][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.51.13:925][747]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo
+[2020.08.22-07.51.25:856][747]LogUObjectHash: Compacting FUObjectHashTables data took   8.87ms
+[2020.08.22-07.51.29:311][747]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.08.22-07.51.29:424][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.08.22-07.51.29:469][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.22-07.51.38:301][896]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.22-07.51.39:212][896]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.22-07.51.44:646][ 68]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo
+[2020.08.22-07.53.01:495][967]BlueprintLog: New page: Compile ObjectTo
+[2020.08.22-07.53.01:651][967]LogUObjectHash: Compacting FUObjectHashTables data took   9.39ms
+[2020.08.22-07.53.02:997][990]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ObjectToEC5497D54E1ABD41D8FAD182F97E52E5.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.uasset'
+[2020.08.22-07.53.03:042][990]AssetCheck: New page: Asset Save: ObjectTo
+[2020.08.22-07.53.03:042][990]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo
+[2020.08.22-07.53.11:480][210]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2020.08.22-07.53.11:562][210]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap0DC49C8E4E02B6E056DD38876A8B870E.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.22-07.53.12:112][210]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap_BuiltData571FBA234B71C8A1956499AC6ADE6743.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.22-07.53.12:169][210]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-07.53.12:169][210]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.22-07.53.12:169][210]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.22-07.53.12:940][228]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-07.53.12:999][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-07.53.13:000][228]PIE: New page: PIE session: ThirdPersonExampleMap (21-08-2020 23:53:12)
+[2020.08.22-07.53.13:000][228]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.53.13:033][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033586s)
+[2020.08.22-07.53.13:037][228]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.22-07.53.13:039][228]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017FA8682400), frame # 104228
+[2020.08.22-07.53.13:039][228]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F56A10900), frame # 104228
+[2020.08.22-07.53.13:041][228]LogPlayLevel: PIE: World Init took: (0.006981s)
+[2020.08.22-07.53.13:041][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.041360s)
+[2020.08.22-07.53.13:093][228]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2020.08.22-07.53.13:098][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-07.53.13:098][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-07.53.13:099][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-07.53.13:099][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-07.53.13:099][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-07.53.13:099][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-07.53.13:099][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-07.53.13:109][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-07.53.13:126][228]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-07.53.13:127][228]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-07.53.13:160][228]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-07.53.13:160][228]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-07.53.13:275][228]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.08.22-07.53.13:276][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-07.53.13:276][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-07.53.13:276][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-07.53.13:301][228]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-07.53.13:303][228]LogInit: FAudioDevice initialized.
+[2020.08.22-07.53.13:477][228]LogLoad: Game class is 'Clase_GameMode_C'
+[2020.08.22-07.53.13:479][228]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.22-03.53.13
+[2020.08.22-07.53.13:479][228]LogWorld: Bringing up level for play took: 0.001430
+[2020.08.22-07.53.13:506][228]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.08.22-07.53.13:613][228]PIE: Server logged in
+[2020.08.22-07.53.13:641][228]PIE: Play in editor total start time 0,646 seconds.
+[2020.08.22-07.54.07:611][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.54.07:611][274]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.22-07.54.07:634][274]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-07.54.07:635][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.54.07:647][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-07.54.07:663][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-07.54.07:714][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-07.54.07:794][274]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F56A10900), frame # 105274
+[2020.08.22-07.54.07:811][274]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017FA8682400), frame # 105274
+[2020.08.22-07.54.07:830][274]LogUObjectHash: Compacting FUObjectHashTables data took   7.91ms
+[2020.08.22-07.54.07:931][275]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.08.22-07.54.27:323][808]LogEditorTransaction: Undo Modify Component Scale
+[2020.08.22-07.54.42:185][228]LogEditorTransaction: Undo Modify Component Scale
+[2020.08.22-07.54.47:772][393]LogEditorTransaction: Undo Modify Component Scale
+[2020.08.22-07.55.09:575][101]LogEditorTransaction: Undo Modify Component(s)
+[2020.08.22-07.56.04:065][548]BlueprintLog: New page: Compile ObjectTo
+[2020.08.22-07.56.04:392][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.08.22-07.56.05:625][567]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ObjectTo24FFE963487D342768BC659C9F5E534D.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.uasset'
+[2020.08.22-07.56.05:991][567]AssetCheck: New page: Asset Save: ObjectTo
+[2020.08.22-07.56.05:991][567]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo
+[2020.08.22-07.57.31:544][192]BlueprintLog: New page: Compile ObjectTo
+[2020.08.22-07.57.31:925][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.08.22-07.57.33:496][219]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ObjectToAF8916CD403CBEBF8BAF399306EA3106.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.uasset'
+[2020.08.22-07.57.33:690][219]AssetCheck: New page: Asset Save: ObjectTo
+[2020.08.22-07.57.33:690][219]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo
+[2020.08.22-07.58.59:092][243]BlueprintLog: New page: Compile ObjectTo
+[2020.08.22-07.58.59:203][243]LogUObjectHash: Compacting FUObjectHashTables data took   8.85ms
+[2020.08.22-07.59.00:638][262]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ObjectTo09D8D1F94B91C23D286419890F534B1C.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.uasset'
+[2020.08.22-07.59.00:729][262]AssetCheck: New page: Asset Save: ObjectTo
+[2020.08.22-07.59.00:729][262]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/ObjectTo.ObjectTo
+[2020.08.22-07.59.07:824][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-08.03.46:523][454]LogRenderer: Reallocating scene render targets to support 1132x536 Format 10 NumSamples 1 (Frame:694).
+[2020.08.22-08.05.18:342][348]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-08.05.18:755][348]LogBlueprint: Error: [Compiler Clase_ThirdPersonCharacter1] The type of  Object  is undetermined.  Connect something to  Cast To ObjectTo  to imply a specific type.
+[2020.08.22-08.05.18:757][348]LogBlueprint: Error: [Compiler Clase_ThirdPersonCharacter1] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.08.22-08.05.19:109][348]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.08.22-08.08.01:934][656]LogUObjectHash: Compacting FUObjectHashTables data took  22.06ms
+[2020.08.22-08.08.02:197][656]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/ThirdPersonExampleMap_Auto475C1D50D4C98C5BB63396DBF364F9C20.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2020.08.22-08.08.02:219][656]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.414
+[2020.08.22-08.08.02:264][656]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.414
+[2020.08.22-08.08.02:270][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1] ([1] browsable assets)...
+[2020.08.22-08.08.02:290][656]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1]
+[2020.08.22-08.08.02:291][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1]
+[2020.08.22-08.08.03:902][656]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter1_Auto2A1CBBCA4482D15C18BE2B8751AB2AE5.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Autosaves/Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1_Auto4.uasset'
+[2020.08.22-08.08.03:918][656]LogFileHelpers: Auto-saving content packages took 1.650
+[2020.08.22-08.09.23:051][694]BlueprintLog: New page: Compile Clase_ThirdPersonCharacter1
+[2020.08.22-08.09.23:580][694]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.08.22-08.09.27:536][802]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter1ED98222C42517ED43452BBADEC20FF30.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Content/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.uasset'
+[2020.08.22-08.09.27:660][802]AssetCheck: New page: Asset Save: Clase_ThirdPersonCharacter1
+[2020.08.22-08.09.27:660][802]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1.Clase_ThirdPersonCharacter1
+[2020.08.22-08.18.06:708][692]LogUObjectHash: Compacting FUObjectHashTables data took 127.59ms
+[2020.08.22-08.18.06:948][692]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.913
+[2020.08.22-08.18.07:027][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1] ([1] browsable assets)...
+[2020.08.22-08.18.07:028][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1]
+[2020.08.22-08.18.11:180][692]LogSavePackage: Moving 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Clase_ThirdPersonCharacter1_AutoAF6221C443BCE04072AD28B2E20DBF89.tmp' to 'C:/Users/claud/OneDrive/Documentos/GitHub/Programacion-3/Trabajo2/Saved/Autosaves/Game/ThirdPersonBP/PlayerCharacter/Model/Clase_ThirdPersonCharacter1_Auto5.uasset'
+[2020.08.22-08.18.11:236][692]LogFileHelpers: Auto-saving content packages took 4.233
